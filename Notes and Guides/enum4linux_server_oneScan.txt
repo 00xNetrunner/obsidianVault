@@ -1,0 +1,527 @@
+Starting enum4linux v0.9.1 ( http://labs.portcullis.co.uk/application/enum4linux/ ) on Fri Feb  2 19:37:30 2024
+
+[34m =========================================( [0m[32mTarget Information[0m[34m )=========================================
+
+[0mTarget ........... 192.168.10.1
+RID Range ........ 500-550,1000-1050
+Username ......... 'test'
+Password ......... 'test123'
+Known Usernames .. administrator, guest, krbtgt, domain admins, root, bin, none
+
+
+[34m ============================( [0m[32mEnumerating Workgroup/Domain on 192.168.10.1[0m[34m )============================
+
+[0m[33m
+[+] [0m[32mGot domain/workgroup name: UADCWNET
+
+[0m
+[34m ================================( [0m[32mNbtstat Information for 192.168.10.1[0m[34m )================================
+
+[0mLooking up status of 192.168.10.1
+	SERVER1         <00> -         B <ACTIVE>  Workstation Service
+	UADCWNET        <00> - <GROUP> B <ACTIVE>  Domain/Workgroup Name
+	UADCWNET        <1c> - <GROUP> B <ACTIVE>  Domain Controllers
+	SERVER1         <20> -         B <ACTIVE>  File Server Service
+	UADCWNET        <1e> - <GROUP> B <ACTIVE>  Browser Service Elections
+	UADCWNET        <1b> -         B <ACTIVE>  Domain Master Browser
+	UADCWNET        <1d> -         B <ACTIVE>  Master Browser
+	..__MSBROWSE__. <01> - <GROUP> B <ACTIVE>  Master Browser
+
+	MAC Address = 00-0C-29-06-40-42
+
+[34m ===================================( [0m[32mSession Check on 192.168.10.1[0m[34m )===================================
+
+[0m[33m
+[+] [0m[32mServer 192.168.10.1 allows sessions using username 'test', password 'test123'
+
+[0m
+[34m ================================( [0m[32mGetting domain SID for 192.168.10.1[0m[34m )================================
+
+[0mDomain Name: UADCWNET
+Domain Sid: S-1-5-21-2373017989-4057782597-2990666611
+[33m
+[+] [0m[32mHost is part of a domain (not a workgroup)
+
+[0m
+[34m ===================================( [0m[32mOS information on 192.168.10.1[0m[34m )===================================
+
+[0m[33m
+[E] [0m[31mCan't get OS info with smbclient
+
+[0m[33m
+[+] [0m[32mGot OS info for 192.168.10.1 from srvinfo: 
+[0m	192.168.10.1   Wk Sv PDC Tim NT LMB 
+	platform_id     :	500
+	os version      :	10.0
+	server type     :	0x84102b
+
+
+[34m =======================================( [0m[32mUsers on 192.168.10.1[0m[34m )=======================================
+
+[0mindex: 0xa37 RID: 0xa37 acb: 0x00000210 Account: A.Kennedy	Name: Arlene Kennedy	Desc: juggle
+index: 0xa4c RID: 0xa4c acb: 0x00000210 Account: A.Peters	Name: Archie Peters	Desc: trickster
+index: 0x1f4 RID: 0x1f4 acb: 0x00000210 Account: Administrator	Name: (null)	Desc: Built-in account for administering the computer/domain
+index: 0xa52 RID: 0xa52 acb: 0x00000210 Account: B.Lewis	Name: Ben Lewis	Desc: flipflop
+index: 0xa41 RID: 0xa41 acb: 0x00000210 Account: B.Rice	Name: Brad Rice	Desc: atavism
+index: 0xa3d RID: 0xa3d acb: 0x00000210 Account: B.Wong	Name: Beverly Wong	Desc: retrieval
+index: 0xa56 RID: 0xa56 acb: 0x00000210 Account: B.Yates	Name: Brittany Yates	Desc: surprised
+index: 0xa40 RID: 0xa40 acb: 0x00000210 Account: D.Brooks	Name: Doug Brooks	Desc: sociable
+index: 0xa3e RID: 0xa3e acb: 0x00000210 Account: D.Ford	Name: Dexter Ford	Desc: antiquated
+index: 0xa4b RID: 0xa4b acb: 0x00000210 Account: D.Murray	Name: Deanna Murray	Desc: himself
+index: 0xa57 RID: 0xa57 acb: 0x00000210 Account: E.Frazier	Name: Erik Frazier	Desc: Hamal
+index: 0xa2f RID: 0xa2f acb: 0x00000210 Account: F.Payne	Name: Felicia Payne	Desc: Ada
+index: 0xa53 RID: 0xa53 acb: 0x00000210 Account: F.Sanders	Name: Franklin Sanders	Desc: usage
+index: 0xa5a RID: 0xa5a acb: 0x00000210 Account: G.Adkins	Name: Guadalupe Adkins	Desc: mitochondria
+index: 0xa58 RID: 0xa58 acb: 0x00000210 Account: G.Francis	Name: Gretchen Francis	Desc: roach
+index: 0xa45 RID: 0xa45 acb: 0x00000210 Account: G.Malone	Name: Gerardo Malone	Desc: pairage
+index: 0xa48 RID: 0xa48 acb: 0x00000210 Account: G.Turner	Name: Glen Turner	Desc: sophia
+index: 0x1f5 RID: 0x1f5 acb: 0x00000215 Account: Guest	Name: (null)	Desc: Built-in account for guest access to the computer/domain
+index: 0xa47 RID: 0xa47 acb: 0x00000210 Account: H.Mclaughlin	Name: Holly Mclaughlin	Desc: pwd:trainmen63
+index: 0xa55 RID: 0xa55 acb: 0x00000210 Account: I.Robinson	Name: Ian Robinson	Desc: caterpillar
+index: 0xa4e RID: 0xa4e acb: 0x00000210 Account: J.Becker	Name: Jaime Becker	Desc: geodesic
+index: 0xa3b RID: 0xa3b acb: 0x00000210 Account: J.Farmer	Name: Jacob Farmer	Desc: vermin
+index: 0xa31 RID: 0xa31 acb: 0x00000210 Account: J.Poole	Name: Javier Poole	Desc: despise
+index: 0xa59 RID: 0xa59 acb: 0x00000210 Account: J.Shaw	Name: Jaime Shaw	Desc: connoisseur
+index: 0xa2e RID: 0xa2e acb: 0x00000210 Account: J.Wheeler	Name: Johnny Wheeler	Desc: rosemary
+index: 0xa4f RID: 0xa4f acb: 0x00000210 Account: K.Perkins	Name: Katie Perkins	Desc: Ireland
+index: 0xa29 RID: 0xa29 acb: 0x00000210 Account: K.Thompson	Name: Karl Thompson	Desc: excitatory
+index: 0x1f6 RID: 0x1f6 acb: 0x00000011 Account: krbtgt	Name: (null)	Desc: Key Distribution Center Service Account
+index: 0xa2b RID: 0xa2b acb: 0x00010210 Account: L.Gill	Name: Loren Gill	Desc: tarantara
+index: 0xa4a RID: 0xa4a acb: 0x00000210 Account: L.Thornton	Name: Laverne Thornton	Desc: wolf
+index: 0xa39 RID: 0xa39 acb: 0x00000210 Account: L.Washington	Name: Lori Washington	Desc: periphery
+index: 0xa44 RID: 0xa44 acb: 0x00000210 Account: L.Williamson	Name: Larry Williamson	Desc: dill
+index: 0xa34 RID: 0xa34 acb: 0x00000210 Account: M.Adams	Name: Maureen Adams	Desc: phosphine
+index: 0xa3f RID: 0xa3f acb: 0x00000210 Account: M.Daniel	Name: Micheal Daniel	Desc: ritual
+index: 0xa46 RID: 0xa46 acb: 0x00000210 Account: M.Harrington	Name: Maria Harrington	Desc: omicron
+index: 0xa50 RID: 0xa50 acb: 0x00000210 Account: M.Murphy	Name: Marsha Murphy	Desc: honeydew
+index: 0xa4d RID: 0xa4d acb: 0x00000210 Account: M.Padilla	Name: Marlon Padilla	Desc: squalid
+index: 0xa3c RID: 0xa3c acb: 0x00000210 Account: M.Paul	Name: Mary Paul	Desc: threesome
+index: 0xa33 RID: 0xa33 acb: 0x00000210 Account: N.Hogan	Name: Nicole Hogan	Desc: brochure
+index: 0xa2c RID: 0xa2c acb: 0x00000210 Account: N.May	Name: Natalie May	Desc: pedophilia
+index: 0xa32 RID: 0xa32 acb: 0x00000210 Account: N.Wells	Name: Nettie Wells	Desc: taco
+index: 0xa42 RID: 0xa42 acb: 0x00000210 Account: P.Powers	Name: Patti Powers	Desc: shire
+index: 0xa49 RID: 0xa49 acb: 0x00000210 Account: P.Rodriquez	Name: Penny Rodriquez	Desc: sought
+index: 0xa54 RID: 0xa54 acb: 0x00000210 Account: R.Soto	Name: Rex Soto	Desc: fret
+index: 0xa51 RID: 0xa51 acb: 0x00000210 Account: S.Higgins	Name: Sadie Higgins	Desc: night
+index: 0xa3a RID: 0xa3a acb: 0x00000210 Account: S.Shelton	Name: Stacy Shelton	Desc: talisman
+index: 0xa43 RID: 0xa43 acb: 0x00000210 Account: S.Wright	Name: Stanley Wright	Desc: til
+index: 0xa38 RID: 0xa38 acb: 0x00000210 Account: T.Fuller	Name: Tina Fuller	Desc: working
+index: 0xa30 RID: 0xa30 acb: 0x00000210 Account: T.Oliver	Name: Tommie Oliver	Desc: bucketfull
+index: 0x455 RID: 0x455 acb: 0x00000a10 Account: test	Name: Test account	Desc: (null)
+index: 0xa2a RID: 0xa2a acb: 0x00000210 Account: V.Nelson	Name: Viola Nelson	Desc: sawbelly
+index: 0xa2d RID: 0xa2d acb: 0x00000210 Account: W.Holt	Name: Wilbur Holt	Desc: Replication Account
+index: 0xa36 RID: 0xa36 acb: 0x00000210 Account: W.Wolfe	Name: Woodrow Wolfe	Desc: new
+index: 0xa35 RID: 0xa35 acb: 0x00000210 Account: Y.Marshall	Name: Yvette Marshall	Desc: nearby
+
+user:[Administrator] rid:[0x1f4]
+user:[Guest] rid:[0x1f5]
+user:[krbtgt] rid:[0x1f6]
+user:[test] rid:[0x455]
+user:[K.Thompson] rid:[0xa29]
+user:[V.Nelson] rid:[0xa2a]
+user:[L.Gill] rid:[0xa2b]
+user:[N.May] rid:[0xa2c]
+user:[W.Holt] rid:[0xa2d]
+user:[J.Wheeler] rid:[0xa2e]
+user:[F.Payne] rid:[0xa2f]
+user:[T.Oliver] rid:[0xa30]
+user:[J.Poole] rid:[0xa31]
+user:[N.Wells] rid:[0xa32]
+user:[N.Hogan] rid:[0xa33]
+user:[M.Adams] rid:[0xa34]
+user:[Y.Marshall] rid:[0xa35]
+user:[W.Wolfe] rid:[0xa36]
+user:[A.Kennedy] rid:[0xa37]
+user:[T.Fuller] rid:[0xa38]
+user:[L.Washington] rid:[0xa39]
+user:[S.Shelton] rid:[0xa3a]
+user:[J.Farmer] rid:[0xa3b]
+user:[M.Paul] rid:[0xa3c]
+user:[B.Wong] rid:[0xa3d]
+user:[D.Ford] rid:[0xa3e]
+user:[M.Daniel] rid:[0xa3f]
+user:[D.Brooks] rid:[0xa40]
+user:[B.Rice] rid:[0xa41]
+user:[P.Powers] rid:[0xa42]
+user:[S.Wright] rid:[0xa43]
+user:[L.Williamson] rid:[0xa44]
+user:[G.Malone] rid:[0xa45]
+user:[M.Harrington] rid:[0xa46]
+user:[H.Mclaughlin] rid:[0xa47]
+user:[G.Turner] rid:[0xa48]
+user:[P.Rodriquez] rid:[0xa49]
+user:[L.Thornton] rid:[0xa4a]
+user:[D.Murray] rid:[0xa4b]
+user:[A.Peters] rid:[0xa4c]
+user:[M.Padilla] rid:[0xa4d]
+user:[J.Becker] rid:[0xa4e]
+user:[K.Perkins] rid:[0xa4f]
+user:[M.Murphy] rid:[0xa50]
+user:[S.Higgins] rid:[0xa51]
+user:[B.Lewis] rid:[0xa52]
+user:[F.Sanders] rid:[0xa53]
+user:[R.Soto] rid:[0xa54]
+user:[I.Robinson] rid:[0xa55]
+user:[B.Yates] rid:[0xa56]
+user:[E.Frazier] rid:[0xa57]
+user:[G.Francis] rid:[0xa58]
+user:[J.Shaw] rid:[0xa59]
+user:[G.Adkins] rid:[0xa5a]
+
+[34m =================================( [0m[32mShare Enumeration on 192.168.10.1[0m[34m )=================================
+
+[0mdo_connect: Connection to 192.168.10.1 failed (Error NT_STATUS_RESOURCE_NAME_NOT_FOUND)
+
+	Sharename       Type      Comment
+	---------       ----      -------
+	ADMIN$          Disk      Remote Admin
+	C$              Disk      Default share
+	Fileshare1      Disk      
+	Fileshare2      Disk      
+	HR              Disk      
+	IPC$            IPC       Remote IPC
+	NETLOGON        Disk      Logon server share 
+	Resources       Disk      
+	SYSVOL          Disk      Logon server share 
+	SYSVOL2         Disk      
+Reconnecting with SMB1 for workgroup listing.
+Unable to connect with SMB1 -- no workgroup available
+[33m
+[+] [0m[32mAttempting to map shares on 192.168.10.1
+
+[0m//192.168.10.1/ADMIN$	[35mMapping: [0mDENIED[35m Listing: [0mN/A[35m Writing: [0mN/A
+//192.168.10.1/C$	[35mMapping: [0mDENIED[35m Listing: [0mN/A[35m Writing: [0mN/A
+//192.168.10.1/Fileshare1	[35mMapping: [0mOK[35m Listing: [0mOK[35m Writing: [0mN/A
+//192.168.10.1/Fileshare2	[35mMapping: [0mOK[35m Listing: [0mOK[35m Writing: [0mN/A
+//192.168.10.1/HR	[35mMapping: [0mOK[35m Listing: [0mOK[35m Writing: [0mN/A
+[33m
+[E] [0m[31mCan't understand response:
+
+[0mNT_STATUS_NO_SUCH_FILE listing \*
+//192.168.10.1/IPC$	[35mMapping: [0mN/A[35m Listing: [0mN/A[35m Writing: [0mN/A
+//192.168.10.1/NETLOGON	[35mMapping: [0mOK[35m Listing: [0mOK[35m Writing: [0mN/A
+//192.168.10.1/Resources	[35mMapping: [0mOK[35m Listing: [0mOK[35m Writing: [0mN/A
+//192.168.10.1/SYSVOL	[35mMapping: [0mOK[35m Listing: [0mOK[35m Writing: [0mN/A
+//192.168.10.1/SYSVOL2	[35mMapping: [0mOK[35m Listing: [0mOK[35m Writing: [0mN/A
+
+[34m ============================( [0m[32mPassword Policy Information for 192.168.10.1[0m[34m )============================
+
+[0m
+
+[+] Attaching to 192.168.10.1 using test:test123
+
+[+] Trying protocol 139/SMB...
+
+	[!] Protocol failed: Cannot request session (Called Name:192.168.10.1)
+
+[+] Trying protocol 445/SMB...
+
+[+] Found domain(s):
+
+	[+] UADCWNET
+	[+] Builtin
+
+[+] Password Info for Domain: UADCWNET
+
+	[+] Minimum password length: 7
+	[+] Password history length: 24
+	[+] Maximum password age: 136 days 23 hours 58 minutes 
+	[+] Password Complexity Flags: 010000
+
+		[+] Domain Refuse Password Change: 0
+		[+] Domain Password Store Cleartext: 1
+		[+] Domain Password Lockout Admins: 0
+		[+] Domain Password No Clear Change: 0
+		[+] Domain Password No Anon Change: 0
+		[+] Domain Password Complex: 0
+
+	[+] Minimum password age: 1 day 4 minutes 
+	[+] Reset Account Lockout Counter: 
+	[+] Locked Account Duration: 
+	[+] Account Lockout Threshold: None
+	[+] Forced Log off Time: Not Set
+
+
+[33m
+[+] [0m[32mRetieved partial password policy with rpcclient:
+
+
+[0mPassword Complexity: Disabled
+Minimum Password Length: 7
+
+
+[34m =======================================( [0m[32mGroups on 192.168.10.1[0m[34m )=======================================
+
+[0m[33m
+[+] [0m[32mGetting builtin groups:
+
+[0mgroup:[Server Operators] rid:[0x225]
+group:[Account Operators] rid:[0x224]
+group:[Pre-Windows 2000 Compatible Access] rid:[0x22a]
+group:[Incoming Forest Trust Builders] rid:[0x22d]
+group:[Windows Authorization Access Group] rid:[0x230]
+group:[Terminal Server License Servers] rid:[0x231]
+group:[Administrators] rid:[0x220]
+group:[Users] rid:[0x221]
+group:[Guests] rid:[0x222]
+group:[Print Operators] rid:[0x226]
+group:[Backup Operators] rid:[0x227]
+group:[Replicator] rid:[0x228]
+group:[Remote Desktop Users] rid:[0x22b]
+group:[Network Configuration Operators] rid:[0x22c]
+group:[Performance Monitor Users] rid:[0x22e]
+group:[Performance Log Users] rid:[0x22f]
+group:[Distributed COM Users] rid:[0x232]
+group:[IIS_IUSRS] rid:[0x238]
+group:[Cryptographic Operators] rid:[0x239]
+group:[Event Log Readers] rid:[0x23d]
+group:[Certificate Service DCOM Access] rid:[0x23e]
+group:[RDS Remote Access Servers] rid:[0x23f]
+group:[RDS Endpoint Servers] rid:[0x240]
+group:[RDS Management Servers] rid:[0x241]
+group:[Hyper-V Administrators] rid:[0x242]
+group:[Access Control Assistance Operators] rid:[0x243]
+group:[Remote Management Users] rid:[0x244]
+group:[Storage Replica Administrators] rid:[0x246]
+[33m
+[+] [0m[32m Getting builtin group memberships:
+
+[0m[35mGroup: [0mIIS_IUSRS' (RID: 568) has member: NT AUTHORITY\IUSR
+[35mGroup: [0mUsers' (RID: 545) has member: NT AUTHORITY\INTERACTIVE
+[35mGroup: [0mUsers' (RID: 545) has member: NT AUTHORITY\Authenticated Users
+[35mGroup: [0mUsers' (RID: 545) has member: UADCWNET\Domain Users
+[35mGroup: [0mPre-Windows 2000 Compatible Access' (RID: 554) has member: NT AUTHORITY\Authenticated Users
+[35mGroup: [0mGuests' (RID: 546) has member: UADCWNET\Guest
+[35mGroup: [0mGuests' (RID: 546) has member: UADCWNET\Domain Guests
+[35mGroup: [0mWindows Authorization Access Group' (RID: 560) has member: NT AUTHORITY\ENTERPRISE DOMAIN CONTROLLERS
+[35mGroup: [0mAdministrators' (RID: 544) has member: UADCWNET\Administrator
+[35mGroup: [0mAdministrators' (RID: 544) has member: UADCWNET\Enterprise Admins
+[35mGroup: [0mAdministrators' (RID: 544) has member: UADCWNET\Domain Admins
+[33m
+[+] [0m[32m Getting local groups:
+
+[0mgroup:[Cert Publishers] rid:[0x205]
+group:[RAS and IAS Servers] rid:[0x229]
+group:[Allowed RODC Password Replication Group] rid:[0x23b]
+group:[Denied RODC Password Replication Group] rid:[0x23c]
+group:[DnsAdmins] rid:[0x44d]
+[33m
+[+] [0m[32m Getting local group memberships:
+
+[0m[35mGroup: [0mDenied RODC Password Replication Group' (RID: 572) has member: UADCWNET\krbtgt
+[35mGroup: [0mDenied RODC Password Replication Group' (RID: 572) has member: UADCWNET\Domain Controllers
+[35mGroup: [0mDenied RODC Password Replication Group' (RID: 572) has member: UADCWNET\Schema Admins
+[35mGroup: [0mDenied RODC Password Replication Group' (RID: 572) has member: UADCWNET\Enterprise Admins
+[35mGroup: [0mDenied RODC Password Replication Group' (RID: 572) has member: UADCWNET\Cert Publishers
+[35mGroup: [0mDenied RODC Password Replication Group' (RID: 572) has member: UADCWNET\Domain Admins
+[35mGroup: [0mDenied RODC Password Replication Group' (RID: 572) has member: UADCWNET\Group Policy Creator Owners
+[35mGroup: [0mDenied RODC Password Replication Group' (RID: 572) has member: UADCWNET\Read-only Domain Controllers
+[35mGroup: [0mDnsAdmins' (RID: 1101) has member: UADCWNET\W.Holt
+[33m
+[+] [0m[32m Getting domain groups:
+
+[0mgroup:[Enterprise Read-only Domain Controllers] rid:[0x1f2]
+group:[Domain Admins] rid:[0x200]
+group:[Domain Users] rid:[0x201]
+group:[Domain Guests] rid:[0x202]
+group:[Domain Computers] rid:[0x203]
+group:[Domain Controllers] rid:[0x204]
+group:[Schema Admins] rid:[0x206]
+group:[Enterprise Admins] rid:[0x207]
+group:[Group Policy Creator Owners] rid:[0x208]
+group:[Read-only Domain Controllers] rid:[0x209]
+group:[Cloneable Domain Controllers] rid:[0x20a]
+group:[Protected Users] rid:[0x20d]
+group:[Key Admins] rid:[0x20e]
+group:[Enterprise Key Admins] rid:[0x20f]
+group:[DnsUpdateProxy] rid:[0x44e]
+group:[Human Resources] rid:[0x44f]
+group:[Legal] rid:[0x450]
+group:[Finance] rid:[0x451]
+group:[Engineering] rid:[0x452]
+group:[Sales] rid:[0x453]
+group:[Information Technology] rid:[0x454]
+[33m
+[+] [0m[32m Getting domain group memberships:
+
+[0m[35mGroup: [0m'Enterprise Admins' (RID: 519) has member: UADCWNET\Administrator
+[35mGroup: [0m'Schema Admins' (RID: 518) has member: UADCWNET\Administrator
+[35mGroup: [0m'Information Technology' (RID: 1108) has member: UADCWNET\test
+[35mGroup: [0m'Group Policy Creator Owners' (RID: 520) has member: UADCWNET\Administrator
+[35mGroup: [0m'Domain Controllers' (RID: 516) has member: UADCWNET\SERVER1$
+[35mGroup: [0m'Domain Controllers' (RID: 516) has member: UADCWNET\SERVER2$
+[35mGroup: [0m'Domain Guests' (RID: 514) has member: UADCWNET\Guest
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\Administrator
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\krbtgt
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\test
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\K.Thompson
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\V.Nelson
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\L.Gill
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\N.May
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\W.Holt
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\J.Wheeler
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\F.Payne
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\T.Oliver
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\J.Poole
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\N.Wells
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\N.Hogan
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\M.Adams
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\Y.Marshall
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\W.Wolfe
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\A.Kennedy
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\T.Fuller
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\L.Washington
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\S.Shelton
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\J.Farmer
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\M.Paul
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\B.Wong
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\D.Ford
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\M.Daniel
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\D.Brooks
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\B.Rice
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\P.Powers
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\S.Wright
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\L.Williamson
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\G.Malone
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\M.Harrington
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\H.Mclaughlin
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\G.Turner
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\P.Rodriquez
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\L.Thornton
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\D.Murray
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\A.Peters
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\M.Padilla
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\J.Becker
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\K.Perkins
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\M.Murphy
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\S.Higgins
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\B.Lewis
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\F.Sanders
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\R.Soto
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\I.Robinson
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\B.Yates
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\E.Frazier
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\G.Francis
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\J.Shaw
+[35mGroup: [0m'Domain Users' (RID: 513) has member: UADCWNET\G.Adkins
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\marketplace$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\pc28$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\range86-130$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\nt4$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\cust84$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\devserver$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\about$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\helponline$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\sanantonio$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\inbound$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\customer$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\ir$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\announce$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\iris$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\dev1$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\cust24$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\mx$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\vader$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\cust53$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\mv$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\mickey$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\ptld$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\tool$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\uninet$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\houstin$
+[35mGroup: [0m'Domain Computers' (RID: 515) has member: UADCWNET\CLIENT1$
+[35mGroup: [0m'Domain Admins' (RID: 512) has member: UADCWNET\Administrator
+[35mGroup: [0m'Domain Admins' (RID: 512) has member: UADCWNET\W.Holt
+[35mGroup: [0m'Domain Admins' (RID: 512) has member: UADCWNET\L.Washington
+[35mGroup: [0m'Domain Admins' (RID: 512) has member: UADCWNET\M.Padilla
+[35mGroup: [0m'Domain Admins' (RID: 512) has member: UADCWNET\I.Robinson
+[35mGroup: [0m'Domain Admins' (RID: 512) has member: UADCWNET\B.Yates
+[35mGroup: [0m'Domain Admins' (RID: 512) has member: UADCWNET\J.Shaw
+
+[34m ==================( [0m[32mUsers on 192.168.10.1 via RID cycling (RIDS: 500-550,1000-1050)[0m[34m )==================
+
+[0m[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-21-2373017989-4057782597-2990666611
+[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-21-2373017989-4057782597-2990666611
+[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-32
+[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-32
+[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-32
+[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-32
+[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-32
+[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-32
+[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-32
+[33m
+[I] [0m[36mFound new SID: 
+[0mS-1-5-21-2373017989-4057782597-2990666611
+[33m
+[+] [0m[32mEnumerating users using SID S-1-5-80 and logon username 'test', password 'test123'
+
+[0m[33m
+[+] [0m[32mEnumerating users using SID S-1-5-32 and logon username 'test', password 'test123'
+
+[0mS-1-5-32-544 BUILTIN\Administrators (Local Group)
+S-1-5-32-545 BUILTIN\Users (Local Group)
+S-1-5-32-546 BUILTIN\Guests (Local Group)
+S-1-5-32-548 BUILTIN\Account Operators (Local Group)
+S-1-5-32-549 BUILTIN\Server Operators (Local Group)
+S-1-5-32-550 BUILTIN\Print Operators (Local Group)
+[33m
+[+] [0m[32mEnumerating users using SID S-1-5-21-3909509232-362358561-949330273 and logon username 'test', password 'test123'
+
+[0mS-1-5-21-3909509232-362358561-949330273-500 SERVER1\Administrator (Local User)
+S-1-5-21-3909509232-362358561-949330273-501 SERVER1\Guest (Local User)
+S-1-5-21-3909509232-362358561-949330273-503 SERVER1\DefaultAccount (Local User)
+S-1-5-21-3909509232-362358561-949330273-504 SERVER1\WDAGUtilityAccount (Local User)
+S-1-5-21-3909509232-362358561-949330273-513 SERVER1\None (Domain Group)
+[33m
+[+] [0m[32mEnumerating users using SID S-1-5-21-2373017989-4057782597-2990666611 and logon username 'test', password 'test123'
+
+[0mS-1-5-21-2373017989-4057782597-2990666611-500 UADCWNET\Administrator (Local User)
+S-1-5-21-2373017989-4057782597-2990666611-501 UADCWNET\Guest (Local User)
+S-1-5-21-2373017989-4057782597-2990666611-502 UADCWNET\krbtgt (Local User)
+S-1-5-21-2373017989-4057782597-2990666611-512 UADCWNET\Domain Admins (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-513 UADCWNET\Domain Users (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-514 UADCWNET\Domain Guests (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-515 UADCWNET\Domain Computers (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-516 UADCWNET\Domain Controllers (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-517 UADCWNET\Cert Publishers (Local Group)
+S-1-5-21-2373017989-4057782597-2990666611-518 UADCWNET\Schema Admins (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-519 UADCWNET\Enterprise Admins (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-520 UADCWNET\Group Policy Creator Owners (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-521 UADCWNET\Read-only Domain Controllers (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-522 UADCWNET\Cloneable Domain Controllers (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-525 UADCWNET\Protected Users (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-526 UADCWNET\Key Admins (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-527 UADCWNET\Enterprise Key Admins (Domain Group)
+S-1-5-21-2373017989-4057782597-2990666611-1000 UADCWNET\SERVER1$ (Local User)
+[33m
+[+] [0m[32mEnumerating users using SID S-1-5-90 and logon username 'test', password 'test123'
+
+[0m[33m
+[+] [0m[32mEnumerating users using SID S-1-5-80-3139157870-2983391045-3678747466-658725712 and logon username 'test', password 'test123'
+
+[0m
+[34m ===============================( [0m[32mGetting printer info for 192.168.10.1[0m[34m )===============================
+
+[0mNo printers returned.
+
+
+enum4linux complete on Fri Feb  2 19:38:01 2024
+

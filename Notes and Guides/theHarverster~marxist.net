@@ -1,0 +1,297 @@
+Read proxies.yaml from /etc/theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.5.0                                              *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: marxist.net 
+
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+'bevigil'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+'bing'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+'bing'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+'bufferoverun'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in hunterhow search: 'hunterhow'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+'onyphe'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+An exception has occurred in PentestTools search: 'pentestTools'
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+[94m[*] Searching Anubis. 
+[94m[*] Searching Binaryedge. 
+[94m[*] Searching Brave. 
+	Searching results.
+[94m[*] Searching Certspotter. 
+[94m[*] Searching CRTsh. 
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8050> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8170> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8200> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8320> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8440> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8560> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8680> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec87a0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec88c0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec89e0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8b00> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8c20> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8d40> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec8e60> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec91c0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec92e0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9400> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9520> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9640> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9760> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9880> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec99a0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9ac0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9be0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9d00> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9e20> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ec9f40> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301eca060> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301eca180> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301eca2a0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301eca3c0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301eca4e0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301eca600> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301eca720> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301eca840> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301eca960> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecaa80> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecaba0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecacc0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecade0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecaf00> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecb020> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecb140> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecb260> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecb380> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecb4a0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecb5c0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecb6e0> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecb800> [Temporary failure in name resolution]
+An exception has occurred: Cannot connect to host www.baidu.com:443 ssl:<ssl.SSLContext object at 0x7fd301ecb920> [Temporary failure in name resolution]
+[94m[*] Searching Baidu. 
+[94m[*] Searching Dnsdumpster. 
+[94m[*] Searching Duckduckgo. 
+	Searching 0 results.
+	Searching 31 results.
+	Searching 62 results.
+	Searching 92 results.
+	Searching 122 results.
+	Searching 152 results.
+[94m[*] Searching Hackertarget. 
+	Searching 182 results.
+	Searching 213 results.
+	Searching 245 results.
+	Retrying page in 62.5 seconds...
+[94m[*] Searching Hunter. 
+[94m[*] Searching Intelx. 
+[94m[*] Searching Netlas. 
+An exception occurred while parsing criminalip result: 'country'
+Dumping json: 
+{'data': {'certificates': [], 'classification': {'dga_score': 0.001, 'domain_type': [{'name': 'top_rank', 'type': 'general'}], 'google_safe_browsing': []}, 'connected_domain_subdomain': [{'main_domain': {'domain': 'marxist.net'}, 'subdomains': [{'domain': 'www.marxist.net'}]}], 'connected_ip': [{'ip': '85.233.160.145', 'score': 'safe'}, {'ip': '85.233.160.147', 'score': 'safe'}], 'connected_ip_info': [{'as_name': 'Namesco Limited', 'asn': '8622', 'cnt': 13, 'country': 'GB', 'domain_list': [{'domain': 'marxist.net'}], 'ip': '85.233.160.145', 'redirect_cnt': 0, 'score': 'Safe'}, {'as_name': 'Namesco Limited', 'asn': '8622', 'cnt': 5, 'country': 'GB', 'domain_list': [{'domain': 'www.marxist.net'}], 'ip': '85.233.160.147', 'redirect_cnt': 0, 'score': 'Safe'}], 'cookies': [{'domain': 'marxist.net', 'expires': '0000-00-00 00:00:00', 'http_only': False, 'name': 'TS01237438', 'path': '/', 'secure': False, 'session': False, 'value': '0104bd80e754197a83c753da48c518b19254682630426b3c0b02b66266c4617dcf190a6c97fb92074030c0ea328003754e8398a0b2'}, {'domain': 'marxist.net', 'expires': '0000-00-00 00:00:00', 'http_only': True, 'name': 'BIGipServerZebedee', 'path': '/', 'secure': False, 'session': False, 'value': '90220736.20480.0000'}], 'detected_program': {'program_data_in_html_source': [], 'program_data_with_access': []}, 'dns_record': {'dns_record_type_a': {'ipv4': [{'ip': '85.233.160.145', 'score': 'safe'}], 'ipv6': []}, 'dns_record_type_cname': [], 'dns_record_type_mx': [['athena.hosts.co.uk'], ['hermes.hosts.co.uk']], 'dns_record_type_ns': ['ns2.phase8.net.', 'ns1.phase8.net.', 'ns0.phase8.net.'], 'dns_record_type_ptr': [], 'dns_record_type_soa': []}, 'frames': [], 'html_page_link_domains': [{'domain': 'marxist.net', 'mapped_ips': [{'as_name': 'Namesco Limited', 'country': 'GB', 'ip': '85.233.160.145', 'score': 'safe'}], 'nslookup_time': '2024-01-19 17:26:36'}, {'domain': 'www.socialistworld.net', 'mapped_ips': [{'as_name': 'IONOS SE', 'country': 'GB', 'ip': '77.68.98.250', 'score': 'safe'}], 'nslookup_time': '2024-01-19 17:26:36'}, {'domain': 'en-gb.wordpress.org', 'mapped_ips': [{'as_name': 'SINGLEHOP-LLC', 'country': 'US', 'ip': '198.143.164.252', 'score': 'safe'}], 'nslookup_time': '2024-01-19 17:26:36'}, {'domain': 'twitter.com', 'mapped_ips': [{'as_name': 'TWITTER', 'country': 'US', 'ip': '104.244.42.65', 'score': 'safe'}], 'nslookup_time': '2024-01-19 17:26:36'}, {'domain': 'www.marxist.net', 'mapped_ips': [{'as_name': 'Namesco Limited', 'country': 'GB', 'ip': '85.233.160.147', 'score': 'safe'}], 'nslookup_time': '2024-01-19 17:26:36'}, {'domain': 'www.facebook.com', 'mapped_ips': [{'as_name': 'FACEBOOK', 'country': 'HK', 'ip': '163.70.158.35', 'score': 'safe'}], 'nslookup_time': '2024-01-19 17:26:36'}], 'javascript_variables': [{'variable_name': '0', 'variable_type': 'object'}, {'variable_name': '_wpemojiSettings', 'variable_type': 'object'}, {'variable_name': 'twentytwenty', 'variable_type': 'object'}, {'variable_name': 'twentytwentyDomReady', 'variable_type': 'function'}, {'variable_name': 'twentytwentyToggleAttribute', 'variable_type': 'function'}, {'variable_name': 'twentytwentyMenuToggle', 'variable_type': 'function'}, {'variable_name': 'twentytwentyFindParents', 'variable_type': 'function'}, {'variable_name': 'twemoji', 'variable_type': 'object'}, {'variable_name': 'wp', 'variable_type': 'object'}], 'links': [{'title': 'Marxist.net', 'url': 'http://marxist.net/'}, {'title': 'Home', 'url': 'http://marxist.net'}, {'title': 'About', 'url': 'http://marxist.net/about/'}, {'title': 'Latest', 'url': 'http://marxist.net/in-defence-of-trotskyism-the-documents/'}, {'title': 'Contact', 'url': 'http://marxist.net/contact/'}, {'title': 'Archives', 'url': 'http://www.marxist.net/index-archive.html'}, {'title': 'Home', 'url': 'http://marxist.net/wordpress/'}, {'title': 'About', 'url': 'http://marxist.net/about/'}, {'title': 'Latest', 'url': 'http://marxist.net/updates/'}, {'title': 'Contact', 'url': 'http://marxist.net/contact/'}, {'title': 'Home', 'url': 'http://marxist.net'}, {'title': 'About', 'url': 'http://marxist.net/about/'}, {'title': 'Latest', 'url': 'http://marxist.net/in-defence-of-trotskyism-the-documents/'}, {'title': 'Contact', 'url': 'http://marxist.net/contact/'}, {'title': 'Archives', 'url': 'http://www.marxist.net/index-archive.html'}, {'title': 'Facebook', 'url': 'https://www.facebook.com/socialistworld/'}, {'title': 'Twitter', 'url': 'https://twitter.com/CWISocialist'}, {'title': 'Committee for a Workers’ International', 'url': 'https://www.socialistworld.net/'}, {'title': 'read more', 'url': 'http://marxist.net/in-defence-of-trotskyism-the-documents/'}, {'title': 'Read More', 'url': 'http://www.marxist.net/openturn/index.html'}, {'title': 'Read More', 'url': 'http://www.marxist.net/scotland/index.html'}, {'title': 'Read More', 'url': 'http://www.marxist.net/stalinism/index.html'}, {'title': 'Read More', 'url': 'http://www.marxist.net/index-archive.html'}, {'title': '', 'url': 'https://www.socialistworld.net/'}, {'title': '', 'url': 'http://www.marxist.net/marx/index.html'}, {'title': 'The Communist Manifesto', 'url': 'http://www.marxist.net/marx/index.html'}, {'title': 'Marxist view of the development of human society', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism3.htm'}, {'title': '', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism3.htm#article4'}, {'title': 'The materialist conception of history', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism3.htm#article4'}, {'title': 'The “division of labour”', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism3.htm#article5'}, {'title': 'The “economic conditions”', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism3.htm#article6'}, {'title': '', 'url': 'http://www.marxist.net/lenin/staterev/index.html'}, {'title': 'The State and Revolution', 'url': 'http://www.marxist.net/lenin/staterev/index.html'}, {'title': 'The Historic Service Of Marx And Engels', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism.htm#article1'}, {'title': 'The Three Sources And Three Component Parts Of Marxism', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism.htm#article2'}, {'title': 'The Historical Destiny Of The Teaching Of Karl Marx', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism2.htm'}, {'title': 'On The Theory Of Marxism', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism2.htm#article8'}, {'title': '', 'url': 'http://www.marxist.net/trotsky/russia/index.html'}, {'title': 'In Defence of October', 'url': 'http://www.marxist.net/trotsky/russia/index.html'}, {'title': 'Stalinism and Bolshevism', 'url': 'http://www.marxist.net/trotsky/russia/r2frame.htm?stalin.html'}, {'title': 'Lessons of October', 'url': 'http://www.marxist.net/trotsky/russia/r2frame.htm?lessons.htm'}, {'title': 'The Class, The Party and the Leadership', 'url': 'http://www.marxist.net/trotsky/cpl/index.html'}, {'title': 'Transitional Programme', 'url': 'http://www.marxist.net/trotsky/programme/index.html'}, {'title': 'The ABC Of Dialectical Materialism', 'url': 'http://www.marxist.net/marx/w2frame.htm?WhatIsMarxism4.htm'}, {'title': 'Marxism and Individual Terrorism', 'url': 'http://www.marxist.net/trotsky/t2frame.htm?againstterror2.htm#T1'}, {'title': 'Leon Trotsky’s Assassination', 'url': 'http://www.marxist.net/trotsky/life/life.htm'}, {'title': '', 'url': 'http://www.marxist.net/ireland/connolly/socialism/index.html'}, {'title': 'Socialism Made Easy', 'url': 'http://www.marxist.net/ireland/connolly/socialism/index.html'}, {'title': 'The Friends of Small Nationalities', 'url': 'http://www.marxist.net/ireland/connolly/connelly1914.htm'}, {'title': 'Labour in Irish History', 'url': 'http://www.marxist.net/ireland/connolly/labour/index.html'}, {'title': 'Support the CWI', 'url': 'https://www.socialistworld.net/sign-up-to-become-a-supporter/'}, {'title': 'Facebook', 'url': 'https://www.facebook.com/socialistworld/'}, {'title': 'Twitter', 'url': 'https://twitter.com/CWISocialist'}, {'title': 'Marxist.net', 'url': 'http://marxist.net/'}, {'title': 'Privacy Policy', 'url': 'http://marxist.net/privacy-policy/'}, {'title': 'Powered by WordPress', 'url': 'https://en-gb.wordpress.org/'}], 'main_certificate': {'enddate': '0000-00-00 00:00:00', 'issuer': '', 'signed_algorithm': '', 'startdate': '0000-00-00 00:00:00', 'subject': ''}, 'main_domain_info': {'changed_url': 'http://marxist.net', 'dns_ip_asn': '', 'domain_created': '2002-05-29', 'domain_registrar': 'Register SPA', 'domain_score': {'score': 'safe', 'score_num': 0.5, 'score_percentage': 30}, 'favicon': [], 'inserted_url': 'http://marxist.net', 'jarm': '00000000000000000000000000000000000000000000000000000000000000', 'main_domain': 'marxist.net', 'title': "Marxist.net – Marxist resource from the Committee for a Workers' International"}, 'mapped_ip': [{'as_name': 'Namesco Limited', 'country': 'gb', 'ip': '85.233.160.145', 'score': 'safe'}], 'network_logs': {'abuse_record': {'critical': 0, 'dangerous': 0}, 'data': [{'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '621 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'text/html', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Document', 'url': 'http://marxist.net/'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '284 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'text/css', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Stylesheet', 'url': 'http://marxist.net/wordpress/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '284 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'text/css', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Stylesheet', 'url': 'http://marxist.net/wordpress/wp-content/themes/twentytwenty/style.css?ver=2.2'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '296 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'application/javascript', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Script', 'url': 'http://marxist.net/wordpress/wp-content/themes/twentytwenty/assets/js/index.js?ver=2.2'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '233 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://marxist.net/wordpress/wp-content/uploads/2019/12/in-defence-of-Trotsklyism-2-200x300.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '238 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://marxist.net/wordpress/wp-content/uploads/2019/12/marx1000-2.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '238 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://marxist.net/wordpress/wp-content/uploads/2019/12/Lenin-posterised-1000-2-1.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '444 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.147:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://www.marxist.net/images/marx50.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '443 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.147:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://www.marxist.net/images/engels50.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '444 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.147:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://www.marxist.net/images/lenin50.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '444 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.147:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://www.marxist.net/images/trotsky50.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '443 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.147:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://www.marxist.net/images/connolly.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '281 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'text/css', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Stylesheet', 'url': 'http://marxist.net/wordpress/wp-content/themes/twentytwenty/print.css?ver=2.2'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '212 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'application/octet-stream', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Font', 'url': 'http://marxist.net/wordpress/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '238 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://marxist.net/wordpress/wp-content/uploads/2019/12/Engels-posterised-with-fill-1000-2.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '238 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://marxist.net/wordpress/wp-content/uploads/2019/12/Trotsky-public-domain-1000-2.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '233 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'image/jpeg', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Image', 'url': 'http://marxist.net/wordpress/wp-content/uploads/2019/12/socialistworld-masthead-1024x187.jpg'}, {'as_name': 'Namesco Limited', 'as_number': '8622', 'country': 'gb', 'data_size': '299 B', 'frame_id': 'F0859B28BC24BF1F742C9681C4B655E0', 'ip_port': '85.233.160.145:80', 'mime_type': 'application/javascript', 'protocol': 'http/1.1', 'request': 'GET', 'score': 'safe', 'time': '0.0 ms', 'transfer_size': '0 B', 'type': 'Script', 'url': 'http://marxist.net/wordpress/wp-includes/js/wp-emoji-release.min.js?ver=6.4.2'}]}, 'page_networking_info': {'connected_countries': 'GB', 'cookies': 2, 'encryption': '', 'https_percent': 100, 'tls_certificate': '', 'transaction_count': 18, 'transfer_traffic': '0 B'}, 'page_redirections': [], 'report_time': '2024-01-20 02:26:36', 'screenshots': ['https://cip-web-screenshot-new.s3.us-west-1.amazonaws.com/domain/2024/1/20_2_8_marxist.net.png'], 'security_headers': [], 'ssl': False, 'ssl_detail': {'forward_secrecy': {'elliptic_curves_offered': '', 'finite_field_group': '', 'forward_secrecy': '', 'forward_secrecy_ciphers': ''}, 'headers': {'cookies': '', 'hsts': '', 'security_headers': {'cache_control': '', 'pragma': '', 'referrer_policy': '', 'x_frame_options': '', 'x_xss_protection': ''}}, 'protocols': {'deprecated_ssl_protocol_versions': {'sslv2': '', 'sslv3': ''}, 'tls_warning': ''}, 'server_defaults': {'chain_of_trust': [], 'dns_caa_record': [], 'server_key_size': [], 'tls_session_resumption': {'id': '', 'tickets': ''}}, 'vulnerable': {'beast': {'tls1': '', 'value': ''}, 'breach_attacks': '', 'ccs_injection': '', 'client_initiated_ssl_renegotiation': '', 'crime_tls': '', 'drown': '', 'freak': '', 'heartbleed': '', 'logjam': '', 'lucky13': '', 'poodle': '', 'robot': '', 'ssl_rc4': '', 'ssl_renegotiation': '', 'sweet32': '', 'ticketbleed': '', 'tls_fallback_scsv': '', 'winshock': ''}}, 'subdomains': [], 'summary': {'abuse_record': {'critical': 0, 'dangerous': 0}, 'connect_to_ip_directly': 0, 'cred_input': 'Safe', 'dga_score': 0.001, 'diff_domain_favicon': 'Safe', 'fake_domain': False, 'fake_https_url': False, 'fake_ssl': {'category': 'no_ssl', 'invalid': True}, 'hidden_element': 0, 'hidden_iframe': 0, 'iframe': 0, 'js_obfuscated': 0, 'list_of_countries': ['GB'], 'mail_server': True, 'mitm_attack': False, 'newborn_domain': '', 'overlong_domain': False, 'phishing_record': 0, 'punycode': False, 'redirection_diff_asn': 0, 'redirection_diff_country': 0, 'redirection_diff_domain': 0, 'redirection_onclick': 'Normal', 'sfh': 'Safe', 'spf1': 'Safe', 'suspicious_cookie': False, 'suspicious_element': 0, 'suspicious_file': 0, 'symbol_url': False, 'url_phishing_prob': 7.56, 'web_traffic': 'No Rank'}, 'technologies': [{'categories': ['CMS', 'Blogs'], 'name': 'WordPress', 'version': '6.4.2', 'vulner': []}, {'categories': ['Databases'], 'name': 'MySQL', 'version': None, 'vulner': []}, {'categories': ['Programming languages'], 'name': 'PHP', 'version': None, 'vulner': []}, {'categories': ['WordPress themes'], 'name': 'Twenty Twenty', 'version': None, 'vulner': []}, {'categories': ['Font scripts'], 'name': 'Twitter Emoji (Twemoji)', 'version': None, 'vulner': []}, {'categories': ['Performance'], 'name': 'Priority Hints', 'version': None, 'vulner': []}]}, 'message': 'api success', 'status': 200}
+[94m[*] Searching Criminalip. 
+[94m[*] Searching Projectdiscovery. 
+[94m[*] Searching Rapiddns. 
+[94m[*] Searching Otx. 
+RocketReach requests have been throttled; Expected availability in 85386 seconds.
+[94m[*] Searching Rocketreach. 
+Sitedossier module has triggered a captcha on first iteration, no results can be found.
+Change IPs, manually solve the captcha, or wait before rerunning Sitedossier module
+[94m[*] Searching Sitedossier. 
+[94m[*] Searching Subdomaincenter. 
+	Searching 275 results.
+	Searching 306 results.
+	Searching 337 results.
+	Searching 368 results.
+[94m[*] Searching Subdomainfinderc99. 
+	Searching 398 results.
+	Searching 428 results.
+	Searching 462 results.
+	Done Searching Results
+[94m[*] Searching SecurityTrails. 
+	Searching 492 results.
+[94m[*] Searching Github-code. 
+[94m[*] Searching Threatminer. 
+[94m[*] Searching Urlscan. 
+[94m[*] Searching Tomba. 
+[94m[*] Searching Yahoo. 
+
+[*] ASNS found: 1
+--------------------
+8622
+
+[*] Interesting Urls found: 115
+--------------------
+marxist.net
+marxist.net/2019/12/10/a-response-to-the-is-document-womens-oppression-and-identity-politics-our-approach-in-ireland-and-internationally-from-the-nec-in-ireland/
+marxist.net/2019/12/10/for-a-serious-and-constructive-debate-in-the-cwi-for-principled-unity/
+marxist.net/2019/12/10/resolution-from-greek-ec/
+marxist.net/2019/12/10/setting-the-record-straight-part-2/
+marxist.net/2019/12/10/setting-the-record-straight/
+marxist.net/2019/12/10/the-world-at-a-crucial-conjuncture-new-phenomena-demands-and-tasks-the-crisis-in-the-cwi/
+marxist.net/2019/12/11/for-a-marxist-approach-to-struggles-against-womens-oppression/
+marxist.net/2019/12/11/for-a-trotskyist-international-against-opportunism-and-ultra-leftism/
+marxist.net/2019/12/11/in-defence-of-a-working-class-orientation-for-the-cwi/
+marxist.net/2019/12/11/mass-political-consciousness-the-current-stage-of-class-struggle-and-the-revolutionary-party/
+marxist.net/2019/12/11/platform-of-in-defence-of-a-working-class-trotskyist-cwi-faction/
+marxist.net/2019/12/11/rebuilding-the-cwi-lessons-and-tasks/
+marxist.net/2019/12/11/the-nature-of-the-trade-unions/
+marxist.net/2019/12/11/womens-oppression-and-identity-politics-our-approach-in-ireland-and-internationally/
+marxist.net/2019/12/12/in-defence-of-trotskyism/
+marxist.net/about/
+marxist.net/author/admin/
+marxist.net/author/admin/page/2/
+marxist.net/author/admin/page/4/
+marxist.net/category/in-defence-of-trotskyism/
+marxist.net/category/the-in-defence-of-trotskyism-debate/in-defence-of-trotskyism/
+marxist.net/category/the-in-defence-of-trotskyism-debate/the-opposition-to-the-is-majority-known-as-the-non-faction-faction-nff/
+marxist.net/contact/
+marxist.net/donate.htm
+marxist.net/images/connolly.jpg
+marxist.net/images/engels50.jpg
+marxist.net/images/furniture/cwicio-5.gif
+marxist.net/images/lenin50.jpg
+marxist.net/images/marx50.jpg
+marxist.net/images/trotsky50.jpg
+marxist.net/in-defence-of-trotskyism-the-documents/
+marxist.net/index-archive.html
+marxist.net/index.html
+marxist.net/ireland/beyondframe.htm
+marxist.net/ireland/connolly/connelly1914.htm
+marxist.net/ireland/connolly/labour/index.html
+marxist.net/ireland/connolly/labour/lframe.htm
+marxist.net/ireland/connolly/socialism/
+marxist.net/ireland/connolly/socialism/index.html
+marxist.net/lenin/staterev/ch01.htm
+marxist.net/lenin/staterev/ch02.htm
+marxist.net/lenin/staterev/ch03.htm
+marxist.net/lenin/staterev/ch04.htm
+marxist.net/lenin/staterev/ch05.htm
+marxist.net/lenin/staterev/ch06.htm
+marxist.net/lenin/staterev/index.html
+marxist.net/lenin/staterev/postscpt.htm
+marxist.net/lenin/staterev/preface.htm
+marxist.net/marx/index.html
+marxist.net/marx/w2frame.htm
+marxist.net/marx/w2frame.htm?WhatIsMarxism.htm=
+marxist.net/marx/w2frame.htm?WhatIsMarxism2.htm=
+marxist.net/marx/w2frame.htm?WhatIsMarxism3.htm=
+marxist.net/marx/w2frame.htm?WhatIsMarxism4.htm=
+marxist.net/openturn/historic/index.html
+marxist.net/openturn/historic/script.htm
+marxist.net/openturn/index.html
+marxist.net/privacy-policy/
+marxist.net/resources.html
+marxist.net/science-marxism-and-the-big-bang-a-critical-review-of-reason-in-revolt/
+marxist.net/scotland/index.html
+marxist.net/stalinism/collapse/script.htm
+marxist.net/stalinism/index.html
+marxist.net/trotsky/cpl/index.html
+marxist.net/trotsky/index.html
+marxist.net/trotsky/life/life.htm
+marxist.net/trotsky/programme/index.html
+marxist.net/trotsky/programme/p2frame.htm
+marxist.net/trotsky/russia/index.html
+marxist.net/trotsky/russia/r2frame.htm
+marxist.net/trotsky/russia/r2frame.htm?lessons.htm=
+marxist.net/trotsky/russia/r2frame.htm?stalin.html=
+marxist.net/trotsky/t2frame.htm
+marxist.net/trotsky/t2frame.htm?againstterror2.htm=
+marxist.net/updates/
+marxist.net/updates/page/2/
+marxist.net/updates/page/4/
+marxist.net/war/w2frame.htm
+marxist.net/wordpress
+marxist.net/wordpress.
+marxist.net/wordpress/
+marxist.net/wordpress/2019/12/11/platform-of-in-defence-of-a-working-class-trotskyist-cwi-faction/
+marxist.net/wordpress/2019/12/11/womens-oppression-and-identity-politics-our-approach-in-ireland-and-internationally/
+marxist.net/wordpress/wp-content/uploads/2019/12/Engels-posterised-with-fill-1000-2-150x150.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/Engels-posterised-with-fill-1000-2-300x300.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/Engels-posterised-with-fill-1000-2-768x765.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/Engels-posterised-with-fill-1000-2.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/Lenin-posterised-1000-2-1-300x296.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/Lenin-posterised-1000-2-1-768x757.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/Lenin-posterised-1000-2-1.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/Trotsky-public-domain-1000-2-300x296.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/Trotsky-public-domain-1000-2-768x757.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/Trotsky-public-domain-1000-2.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/france-2-1024x484.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/france-2-1200x567.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/france-2-1536x725.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/france-2-1980x935.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/france-2-2048x967.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/france-2-300x142.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/france-2-768x363.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/in-defence-of-Trotsklyism-2-1025x1536.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/in-defence-of-Trotsklyism-2-1200x1799.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/in-defence-of-Trotsklyism-2-200x300.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/in-defence-of-Trotsklyism-2-683x1024.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/in-defence-of-Trotsklyism-2-768x1151.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/in-defence-of-Trotsklyism-2.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/marx1000-2-300x296.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/marx1000-2-768x757.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/marx1000-2.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/socialistworld-masthead-1024x187.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/socialistworld-masthead-1200x220.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/socialistworld-masthead-300x55.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/socialistworld-masthead-768x141.jpg
+marxist.net/wordpress/wp-content/uploads/2019/12/socialistworld-masthead.jpg
+
+[*] LinkedIn Links found: 0
+---------------------
+
+[*] IPs found: 3
+-------------------
+85.233.160.145
+85.233.160.147
+
+[*] Emails found: 10
+----------------------
+arek@marxist.net
+cachedsimilarcontact@marxist.net
+fighback@marxist.net
+marxman@marxist.net
+nm08-7y4ra0l00a0031580022h0901o980@marxist.net
+ricardo@mx.marxist.net
+robinh@marxist.net
+rousbazan@marxist.net
+sakamakidoliska@marxist.net
+
+[*] Hosts found: 3
+---------------------
+.marxist.net
+ftp.marxist.net
+pop3.marxist.net

@@ -1,0 +1,96 @@
+{
+  "nodes": [
+    {
+      "id": "7841486b5e804cf8",
+      "type": "group",
+      "x": -574,
+      "y": -640,
+      "width": 1379,
+      "height": 917,
+      "color": "4",
+      "label": "Course Photos"
+    },
+    {
+      "id": "ca1172790a88171b",
+      "type": "group",
+      "x": -240,
+      "y": -580,
+      "width": 1045,
+      "height": 420,
+      "color": "1",
+      "label": "Challenge Photos"
+    },
+    {
+      "id": "0d4cd671382d5fd3",
+      "type": "file",
+      "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/me.jpeg",
+      "isSticker": true,
+      "x": -554,
+      "y": -143,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cecec338a2435a4a",
+      "type": "file",
+      "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/caddy.webp",
+      "isSticker": true,
+      "x": -154,
+      "y": -143,
+      "width": 328,
+      "height": 400
+    },
+    {
+      "id": "acb95ab7abdb5403",
+      "type": "file",
+      "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/dog.JPG",
+      "isSticker": true,
+      "x": -554,
+      "y": -543,
+      "width": 300,
+      "height": 400
+    },
+    {
+      "id": "5e098d0ba0594417",
+      "type": "file",
+      "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos/4.jpg",
+      "isSticker": true,
+      "x": 180,
+      "y": -580,
+      "width": 225,
+      "height": 400
+    },
+    {
+      "id": "3ad2cc36b8d83505",
+      "type": "file",
+      "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos/3.jpg",
+      "isSticker": true,
+      "x": 405,
+      "y": -470,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "0f26a17fb7842f5c",
+      "type": "file",
+      "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos/2.jpg",
+      "isSticker": true,
+      "x": -220,
+      "y": -470,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "9b8793479c379383",
+      "type": "file",
+      "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/1.jpg",
+      "isSticker": true,
+      "x": 180,
+      "y": -43,
+      "width": 400,
+      "height": 300
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}

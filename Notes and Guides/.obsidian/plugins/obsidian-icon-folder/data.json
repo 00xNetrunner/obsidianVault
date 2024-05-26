@@ -1,0 +1,88 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiVisualstudio",
+      "RiHardDriveLine",
+      "FasGraduationCap",
+      "FarImages",
+      "SiKalilinux"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsInLinksEnabled": true,
+    "debugMode": false,
+    "iconInTitlePosition": "above"
+  },
+  "Spaces/Ethical Hacking Stages/System Hacking Guide Part 1 🏴‍☠️.md": "SiHackaday",
+  "Spaces/Ethical Hacking Stages/System Hacking Guide Part 2 🏴‍☠️.md": "SiHackaday",
+  "Spaces/Ethical Hacking Stages": "SiKalilinux",
+  "Spaces/WiFi_Hacking-Network_Exploitation/Aircrack-ng.md": "FasWifi",
+  "Spaces/WiFi_Hacking-Network_Exploitation/Bettercap Cheatsheet.md": "FasUserNinja",
+  "Spaces/WiFi_Hacking-Network_Exploitation/Bettercap-WiFi_Hacking.md": "FasUserNinja",
+  "Spaces/WiFi_Hacking-Network_Exploitation/OnlyRAT Guide.md": "LiRat",
+  "Spaces/WiFi_Hacking-Network_Exploitation/Wi-Fi WPA Handshake capture Cheatsheet.md": "RiSignalWifiErrorFill",
+  "Spaces/WiFi_Hacking-Network_Exploitation/WMIC Cheatsheet.md": "TiShieldCheckeredFilled",
+  "Spaces/Mind Maps/NMAP MINDMAP.md": "RaEyeball",
+  "Spaces/Ethical Hacking Stages/Enumeration Stage Guide.md": "RaFireballSword",
+  "Spaces/Ethical Hacking Stages/NMAP Guide - Scanning Stage.md": "RaEyeball",
+  "Spaces/Ethical Hacking Stages/OSINT Guide Footprinting.md": "FasUserNinja",
+  "Awesome Tools and How to Use Them/hcxtools.md": "FasWifi",
+  "Awesome Tools and How to Use Them/Storm-Breaker.md": "BoBxsRocket",
+  "Awesome Tools and How to Use Them/To Do - Tool Guides.md": "FasListCheck",
+  "Awesome Tools and How to Use Them/VPN + Proxychains.md": "SiOpenvpn",
+  "HackTheBox Cheatsheets/WordPress Hacking/Hacking WordPress ~ HTB ~ Practical.md": "SiHackthebox",
+  "HackTheBox Cheatsheets": "SiHackthebox",
+  "Awesome Tools and How to Use Them": "LiTerminal",
+  "Linx Commands": "SiLinux",
+  "Notes": "TiNotes",
+  "TCM Security Course Notes": "FasComputer",
+  "HackTheBox Cheatsheets/WordPress Hacking/Hacking WordPress Notes ~~ {HTB Academy}.md": "SiHackthebox",
+  "Awesome Tools and How to Use Them/Armitage.md": "TiShieldCheckeredFilled",
+  "Awesome Tools and How to Use Them/Metasploit - Keylogging, mimikatz, Pass the Hash and persistent access.md": "FasMaximize",
+  "Awesome Tools and How to Use Them/OpenStego.md": "FarImages",
+  "BSc (Hons) Ethical Hacking": "FasGraduationCap",
+  "BSc (Hons) Ethical Hacking/Digital Forensics": "RiHardDriveLine",
+  "BSc (Hons) Ethical Hacking/DSA2": "SiVisualstudio",
+  "Pentesting": "SiHackaday",
+  "Pentesting/Ethical Hacking Stages/Enumeration Stage Guide.md": {
+    "iconName": "RaFireballSword",
+    "iconColor": "#7ad1b7"
+  },
+  "Pentesting/Ethical Hacking Stages/NMAP Guide - Scanning Stage.md": {
+    "iconName": "RaBleedingEye",
+    "iconColor": "#808adb"
+  },
+  "Pentesting/Ethical Hacking Stages/Nessus Guide - Vulnerability Stage.md": {
+    "iconName": "RiScan2Line",
+    "iconColor": "#ab7fd7"
+  },
+  "Pentesting/Ethical Hacking Stages/OSINT Guide Footprinting.md": {
+    "iconName": "RiSpyFill",
+    "iconColor": "#ce9873"
+  },
+  "Pentesting/Ethical Hacking Stages/System Hacking Guide Part 1 🏴‍☠️.md": {
+    "iconName": "RaAllForOne",
+    "iconColor": "#c99673"
+  },
+  "Pentesting/Ethical Hacking Stages/System Hacking Guide Part 2 🏴‍☠️.md": "RaFireballSword",
+  "Pentesting/Ethical Hacking Stages/VMware Lab Set-Up.md": "SiVirtualbox"
+}

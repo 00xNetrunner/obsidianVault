@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "307516c838334c70",
+    "type": "split",
+    "children": [
+      {
+        "id": "99de1c6b57beac86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "657e085541ea22b9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aeb5b4b346916a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "df003d2f0b0d32a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b1c4da6879ad42f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e615200fe483f8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc1497a8c275c9c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dfbfcbf7cbd1d48",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5
+  },
+  "right": {
+    "id": "644a38b12075da92",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff892071a9183715",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c5c4f7f9a0c8384",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0293e31fc74dbb95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a0bd77bf36adbcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b8cbe203f10f887",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ca9ef249c6972ad",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "72418c6455c5bae4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a638149d03a88b1",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 569,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "657e085541ea22b9",
+  "lastOpenFiles": [
+    "TCM Security Course Notes/Practical Phishing Campaigns/Sending Our First Campaign.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Pasted image 20240526123852.png",
+    "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass&nbsp;.md",
+    "TCM Security Course Notes/Practical Phishing Campaigns/Domain Reg.md",
+    "TCM Security Course Notes/Practical Phishing Campaigns/The Perimeter - A Cat and Mouse Game.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Creating Sock Puppet Accounts.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Password OSINT .md",
+    "Awesome Tools and How to Use Them/To Do - Tool Guides.md",
+    "Awesome Tools and How to Use Them/hcxtools.md",
+    "Awesome Tools and How to Use Them/VPN + Proxychains.md",
+    "Awesome Tools and How to Use Them/Website OSINT Tools.md",
+    "Awesome Tools and How to Use Them/Storm-Breaker.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Attachments.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/Pasted image 20240526064056.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/asdasd.webp",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/Images - Password OSINT Section.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/Pasted image 20240526084043.png",
+    "Pentesting/Pentesting.md",
+    "Pentesting/Ethical Hacking Stages/NMAP Guide - Scanning Stage.md",
+    "Pentesting/Ethical Hacking Stages/OSINT Guide Footprinting.md",
+    "Pentesting/Ethical Hacking Stages/VMware Lab Set-Up.md",
+    "Hacking Pentesting/RESEARCH EXERCISES/Untitled.md",
+    "Hacking Pentesting/RESEARCH EXERCISES/PsTools Utility Suite 🛠️.md",
+    "Hacking Pentesting/RESEARCH EXERCISES/Active Directory Misconfiguration.md",
+    "Pentesting/Device Guides/Untitled.md",
+    "Hacking Pentesting/Device Guides/📝 Flipper Zero Setup Guide 🚀.md",
+    "Pentesting/command breakdowns/Upload nc.exe command breakdown.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots/Pasted image 20240526060852.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots/Pasted image 20240526060728.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/1.jpg",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/caddy.webp",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots/Pasted image 20240526061821.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots/Pasted image 20240526061416.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section",
+    "TCM Security Course Notes/OSINT Fundamentals/Image OSINT",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images",
+    "TCM Security Course Notes/OSINT Fundamentals",
+    "Linx Commands/images",
+    "Untitled.canvas",
+    "Spaces",
+    "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
+    "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments",
+    "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
+    "Pentesting/assets/Untitled.canvas",
+    "HackingPentesting/Canvas.canvas",
+    "assets/Main Canvas.canvas",
+    "WiFi_Hacking-Network_Exploitation/Untitled.canvas"
+  ]
+}
