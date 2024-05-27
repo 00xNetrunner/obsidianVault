@@ -8,6 +8,6 @@ _sort:
   group: false
 _template: ""
 _templateName: ""
-sticker: emoji//1f4be
-color: var(--mk-color-turquoise)
+sticker: emoji//1f6f0-fe0f
+color: var(--mk-color-green)
 ---

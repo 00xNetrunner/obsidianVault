@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9224110c4ab073c5",
+        "id": "6e94e522fbb95030",
         "type": "tabs",
         "children": [
           {
-            "id": "a4d192ead22e9f4f",
+            "id": "9b358f078d3f6510",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Linux System Guides/NixOS_Images/Pasted image 20240527051224.png"
+                "file": "Linux System Guides/NixOS.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -76,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "644a38b12075da92",
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux System Guides/NixOS_Images/Pasted image 20240527051224.png",
+                "file": "Linux System Guides/NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux System Guides/NixOS_Images/Pasted image 20240527051224.png",
+                "file": "Linux System Guides/NixOS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux System Guides/NixOS_Images/Pasted image 20240527051224.png"
+                "file": "Linux System Guides/NixOS.md"
               }
             }
           },
@@ -183,22 +187,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4dfbfcbf7cbd1d48",
+  "active": "9b358f078d3f6510",
   "lastOpenFiles": [
+    "Linux System Guides/Pasted image 20240527183334.png",
+    "Linux System Guides/Pasted image 20240527183208.png",
+    "Linux System Guides/Pasted image 20240527182851.png",
+    "Linux System Guides/Pasted image 20240527182815.png",
+    "Linux System Guides/Pasted image 20240527182558.png",
+    "Linux System Guides/Pasted image 20240527182238.png",
+    "Linux System Guides/Pasted image 20240527182102.png",
+    "Linux System Guides/Pasted image 20240527181317.png",
+    "Linux System Guides/Pasted image 20240527181201.png",
+    "Linux System Guides/Pasted image 20240527180524.png",
+    "Linux System Guides/Pasted image 20240527180440.png",
+    "Awesome Tools and How to Use Them/Awesome Tools and How to Use Them.md",
+    "Linx Commands/Linx Commands.md",
     "Linux System Guides/NixOS.md",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527034130.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527051224.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527051106.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527050039.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527045518.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527045344.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527034437.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240526223736.png",
+    "Linux System Guides/Linux System Guides.md",
+    "output/NixOS.md",
+    "output/attachment",
+    "output",
     "Linux System Guides/NixOS_Images/NixOS_Images.md",
     "Linux System Guides/NixOS_Images",
-    "Linux System Guides/NixOS_Images/Pasted image 20240526230808.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240526223813.png",
-    "Linux System Guides/Linux System Guides.md",
     "Linux System Guides",
     "20240526123852.png.md",
     "TCM Security Course Notes/OSINT Fundamentals/Password OSINT .md",
@@ -221,16 +231,11 @@
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
     "Pentesting/Pentesting.md",
     "Pentesting/Ethical Hacking Stages/NMAP Guide - Scanning Stage.md",
-    "Pentesting/Ethical Hacking Stages/OSINT Guide Footprinting.md",
-    "Pentesting/Ethical Hacking Stages/VMware Lab Set-Up.md",
-    "Hacking Pentesting/RESEARCH EXERCISES/Untitled.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section",
     "TCM Security Course Notes/OSINT Fundamentals/Image OSINT",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images",
-    "TCM Security Course Notes/OSINT Fundamentals",
-    "Linx Commands/images",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",

@@ -7,26 +7,32 @@ image: Linux System Guides/NixOS_Images/Pasted image 20240526230808.png
 description: NixOS is a Linux distribution that uses a declarative configuration model. It ensures system reproducibility, supports atomic upgrades and rollbacks, and manages packages through the Nix package manager. Configurations are defined in Nix files, enabling consistent and maintainable setups across different machines.
 ```
 
+---
 
-> [!important]
-> Installing NIxOS is easy if you chose a GUI installer from the website, it uses the calamaris installer and is straight forward to use. allow unfree software when installing
+## **NixOS Installation Guide** `fas:Download`
 
-## Installing Packages `fas:Codepen`
+> [!IMPORTANT]
+> Installing NixOS is straightforward if you choose a GUI installer from the website. It uses the Calamares installer and is easy to navigate. Ensure you allow unfree software during installation.
 
-Installing packages on NixOS Is very unique as its decorative. meaning instead of using a command like `sudo apt install firefox`, we add it to the `configuration.nix` file. 
+## Table of Contents `fas:ListOl`
 
-the configuration file holds all the system settings like language, date and time, location, etc
+```table-of-contents
+```
 
-but it also where you declare what packages you want to install. 
+## **Installing Packages** `fas:Box`
 
-![[Pasted image 20240526223736.png]]![[Pasted image 20240526223813.png]]
+Installing packages on NixOS is unique due to its declarative nature. Instead of using a command like `sudo apt install firefox`, you add the package to the `configuration.nix` file. This configuration file holds all system settings, including language, date and time, location, and installed packages.
 
-Because NixOS is Declarative, its easy to replicate on other system. as all you need is the config file. 
+![[Pasted image 20240526223736.png]]
+![[Pasted image 20240526223813.png]]
+
+Because NixOS is declarative, it is easy to replicate on other systems—all you need is the configuration file.
 
 ```bash
 cd /etc/nixos
-sudoedit configureation.nix # This Opens the config file in nano
+sudoedit configuration.nix  # This opens the config file in nano
 ```
+
 ```nix
 { config, pkgs, ... }:
 
@@ -56,97 +62,217 @@ sudoedit configureation.nix # This Opens the config file in nano
 }
 ```
 
-> [!important]
-> Add packages you want just by typing them under `environment.systemPackage` NIxOS has one of the largest number of available packages than any other system apart from arch. you can find all available packages here: [NixOS Packages](https://search.nixos.org/packages)
+> [!IMPORTANT]
+> To add packages, simply type them under `environment.systemPackages`. NixOS has one of the largest collections of available packages, second only to Arch. You can find all available packages here: [NixOS Packages](https://search.nixos.org/packages).
 > 
-> When you have finished adding you packages, you can update the system with this command:
+> After adding your packages, update the system with:
 > ```bash
 > sudo nixos-rebuild switch
 > ```
 
-Their will be a lot of options you can also add to the config file. to learn about new modules
+There are many additional options you can include in the config file. To learn about new modules, use:
 ```bash
 man configuration.nix
 ```
 
-> [!tip]
-> To search through the manual or find something specific use `/bluetooth`
+> [!TIP]
+> To search through the manual for specific topics, use `/search_term`.
 
-After you have updated and reboot you will see 2 boot loader options, config 1 will be nix in its original state. while the config 2 will be the nix you just built.
+After updating and rebooting, you will see two boot loader options: the original NixOS configuration and the newly built configuration.
 
 ![[Pasted image 20240527034130.png]]
 
-> [!tip]
-> If you want to build the new packages or update but not add the new option to the grub use the following command: 
+> [!TIP]
+> To build new packages or update without adding a new boot option to GRUB, use:
 > ```bash
 > sudo nixos-rebuild test
 > ```
 
-NixOS will store every package in a directory called `/nix/store`
+NixOS stores every package in a directory called `/nix/store`.
+
 ![[Pasted image 20240527034437.png]]
-> [!tip]
-> To keep your system clean:
+
+> [!TIP]
+> To keep your system clean, run:
 > ```bash
 > sudo nix-collect-garbage --delete-older-than 15d
 > ```
 
-## Flakes
+## Understanding Flakes `fas:Snowflake`
 
-> [!summary]
-> When we rebuild our nixos system  it does not actuality update the packages, all nixos packages can be found in the nixpkgs GitHub.  its split into different branches. the main ones are 
-> - stable (23.11) 
+> [!SUMMARY]
+> Rebuilding the NixOS system does not actually update the packages. All NixOS packages are found in the `nixpkgs` GitHub repository, divided into different branches such as:
+> - stable (23.11)
 > - unstable
 > - upstream
 > 
-> When you install nixos by default you will be on the stable branch. all packages you install and nixos options you apply  are taken from it. this commit is called a channel and it stays the same until you explicitly update to a newer commit. 
+> By default, NixOS is installed on the stable branch. The packages you install and the options you apply are from this branch. This commit is called a channel and remains the same until you explicitly update to a newer commit.
 
-> [!warning]
-> This is going to be a problem when you try and share you configuration files to someone as they may not be on the same commit as you.  they could be on an unstable branch or may be on an older commit. 
+> [!WARNING]
+> Sharing configuration files can be problematic if others are not on the same commit as you. They could be on an unstable branch or an older commit.
 
-> [!help]
-> This is where nix flakes come in. Nix Flakes are a special system for managing you Nix code dependencies in a declarative way. this is why we will create a flake that explicitly lists your nix packages branch as a dependency, the Flake system will then automatically create a lock file to keep track of its updates. this makes it so that our configurations are not dependent on our systems but can be applied on anyone's system no matter what commit they are on. 
+> [!HELP]
+> This is where Nix Flakes come in. Nix Flakes manage Nix code dependencies declaratively. By creating a flake that lists your Nix packages branch as a dependency, the Flake system automatically creates a lock file to track updates. This ensures configurations are not system-dependent and can be applied on any system regardless of the commit.
 
-Ensure that you have Nix installed with Flakes support enabled. You can enable Flakes support by adding the following lines to your `/etc/nixos/configuration.nix`:
-```bash
-nix.settings.experimental-features = ["nix-command" "flakes" ];
+Ensure you have Nix installed with Flakes support enabled. Add the following lines to your `/etc/nixos/configuration.nix`:
+```nix
+nix.settings.experimental-features = ["nix-command" "flakes"];
 ```
 
-Now from rebuild your system again with 
+Rebuild your system:
 ```bash
 sudo nixos-rebuild switch
 ```
 
-from here make sure you are in the `/etc/nixos` directory and run 
+Navigate to the `/etc/nixos` directory and initialize a flake with:
 ```bash
 sudo nix flake init --template github:vimjoyer/flake-starter-config
 ```
+
 ![[Pasted image 20240527045344.png]]
 
-when you open up this flake 
+Open the flake file:
 ![[Pasted image 20240527045518.png]]
->extraSpecialArgs will not work nix uses SpecialArgs now
 
-Now that we have made our flake we can rebuild are system with said flake with the following command. 
+> Note: `extraSpecialArgs` will not work; Nix uses `SpecialArgs` now.
+
+Rebuild the system with the flake:
 ```bash
 sudo nixos-rebuild switch --flake /etc/nixos#default
 ```
-> now use `ls` command you will see a new file called flake.lock
 
-we are now going to add a popular nixos module called home-manager. but first we should probably talk about what they are. 
+> After running the command, use `ls` to see the new `flake.lock` file.
+
+We will now add a popular NixOS module called home-manager. First, let's understand what modules are.
 
 ![[Pasted image 20240527050039.png]]
-Modules in nix are chunks of nix code that extend your configuration by setting options or providing new ones they will normally look something like this. they are basically functions that take some arguments and return dictionaries with options
 
-if it looks familiar this is because the config.nix and hardware config are both Nix Modules. 
+Modules in Nix are chunks of code that extend your configuration by setting or providing new options. They typically look like functions that take some arguments and return dictionaries with options. The `configuration.nix` and `hardware-configuration.nix` files are examples of Nix modules.
 
-making your own module is simple,  Create a new nix file: 
+Creating your own module is simple. Create a new Nix file:
 ![[Pasted image 20240527051106.png]]
->main-user.nix 
->this module defines my systems primary user and sets its shell to zsh
 
-you can then import this new module in the configuration.nix like so:
+For example, `main-user.nix`:
+> This module defines my system's primary user and sets its shell to zsh.
+
+You can import this new module in the `configuration.nix` file:
 ![[Pasted image 20240527051224.png]]
 
-##### NOT FINISHED CLICK LINK BELOW TO WATCH THE VIDEO AND FINISH THE GUIDE
-[Ultimate NixOS Guide | Flakes | Home-manager @ 9:48](https://youtu.be/a67Sv4Mbxmc?t=588)
+>lets add some more options to the module we are creating.  the first option will be used to toggle our module. `main-user.enable` and the second module `main-user.userName` will determine our users name.  the file should look like this after
+![[Pasted image 20240527174348.png]]
 
+>These options can be used in another module now so lets call them into our main configuration.nix file.  here we can set the main user to be enabled, and set their username to yurii
+![[Pasted image 20240527174653.png]]
+
+> Cleaning up our code to make it look neater. 
+![[Pasted image 20240527174938.png]]
+
+Certainly! Here's the academically styled guide with callouts and icons:
+
+---
+
+## **Home-Manager** `fas:UserCog`
+
+Now that we have explained what flakes are, let us download and configure Home-Manager. In the `flake.nix` file that we created, we will add the Home-Manager module.
+
+```nix
+home-manager = {
+  url= "github:nix-community/home-manager";
+  inputs.nixpkgs.follows = "nixpkgs";
+}
+```
+
+We will also add `inputs.home-manager.nixosModules.default` to our configuration. The updated `flake.nix` file will look like this:
+
+![[Pasted image 20240527180440.png]]
+
+Next, we need to add `inputs.home-manager.nixosModules.default` to the `configuration.nix` file as well:
+
+![[Pasted image 20240527180524.png]]
+
+> [!QUESTION]
+> We have added Home-Manager to NixOS, but what exactly is it?
+
+The Home-Manager allows us to declaratively configure the home directory and manage configuration files stored there. Instead of configuring systems and services individually (e.g., editing Alacritty's TOML file), Home-Manager lets us manage configurations universally.
+
+![[Pasted image 20240527181201.png]]
+
+Let us modify the `configuration.nix` file as follows:
+
+![[Pasted image 20240527181317.png]]
+
+> Remember to change your username.
+
+We also need to generate the `home.nix` file with the following command:
+
+```bash
+nix run home-manager/master -- init && \
+  sudo cp ~/.config/home-manager/home.nix /etc/nixos/
+```
+
+> [!TIP]
+> To view the manual for `home.nix`, use the following command:
+> ```bash
+> man home-configuration.nix
+> ```
+> Similar to other manuals, you can use `/` to search within the manual, e.g., `/programs.nix`.
+
+Within the `home-config.nix` file, we can configure various settings such as themes. Home-Manager provides extensive capabilities, but this is a simple example.
+
+![[Pasted image 20240527182102.png]]
+
+### **Structuring The NixOS Configuration** `fas:FolderOpen`
+
+Currently, the `/etc/nixos` directory is somewhat disorganized:
+
+![[Pasted image 20240527182238.png]]
+
+To improve organization, create two new folders in this directory using `mkdir -p`:
+
+```bash
+mkdir -p hosts/default
+```
+
+Move `configuration.nix`, `hardware-config.nix`, and `home.nix` into the `hosts/default` folder.
+
+Ensure you update the `flake.nix` file with the new location for `config.nix`:
+
+![[Pasted image 20240527182558.png]]
+
+This setup allows for multiple configurations, such as a default configuration and a work-machine configuration, enabling easy switching between them:
+
+![[Pasted image 20240527182815.png]]
+
+To use this setup, add it to the `flake.nix` file:
+
+![[Pasted image 20240527182851.png]]
+
+To switch between configurations or set up one system on another, use the following commands:
+
+Rebuild NixOS with the default configuration:
+
+```bash
+sudo nixos-rebuild switch --flake /etc/nixos#default
+```
+
+Rebuild NixOS with the work-machine configuration:
+
+```bash
+sudo nixos-rebuild switch --flake /etc/nixos#workmachine
+```
+
+In `/etc/nixos`, create the necessary folders:
+
+![[Pasted image 20240527183208.png]]
+
+This practice of splitting our modules into smaller files makes it easier to manage and select specific configurations as needed:
+
+![[Pasted image 20240527183334.png]]
+
+---
+
+**Reference List:**
+
+Vimjoyer. 2024. Ultimate NixOS Guide | Flakes | Home-manager. [online video] Available at: [https://youtu.be/a67Sv4Mbxmc](https://youtu.be/a67Sv4Mbxmc) [Accessed 27 May 2024].
+
+Vimjoyer. 2024. flake-starter-config. [online] Available at: [https://github.com/vimjoyer/flake-starter-config](https://github.com/vimjoyer/flake-starter-config) [Accessed 27 May 2024].
