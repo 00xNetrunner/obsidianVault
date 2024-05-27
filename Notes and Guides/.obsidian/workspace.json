@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "99de1c6b57beac86",
+        "id": "9224110c4ab073c5",
         "type": "tabs",
         "children": [
           {
-            "id": "657e085541ea22b9",
+            "id": "a4d192ead22e9f4f",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images"
+                "file": "Linux System Guides/NixOS.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -76,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "644a38b12075da92",
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux System Guides/NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux System Guides/NixOS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux System Guides/NixOS.md"
+              }
             }
           },
           {
@@ -179,17 +187,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "657e085541ea22b9",
+  "active": "a4d192ead22e9f4f",
   "lastOpenFiles": [
-    "TCM Security Course Notes/Practical Phishing Campaigns/Sending Our First Campaign.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Pasted image 20240526123852.png",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass&nbsp;.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Domain Reg.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/The Perimeter - A Cat and Mouse Game.md",
+    "Linux System Guides/Pasted image 20240527051224.png",
+    "Linux System Guides/Pasted image 20240527051106.png",
+    "Linux System Guides/Pasted image 20240527050039.png",
+    "Linux System Guides/Pasted image 20240527045518.png",
+    "Linux System Guides/Pasted image 20240527045344.png",
+    "Linux System Guides/Pasted image 20240527034437.png",
+    "Linux System Guides/Pasted image 20240527034130.png",
+    "Linux System Guides/NixOS.md",
+    "Linux System Guides/NixOS_Images/Pasted image 20240526223736.png",
+    "Linux System Guides/NixOS_Images/NixOS_Images.md",
+    "Linux System Guides/NixOS_Images",
+    "Linux System Guides/NixOS_Images/Pasted image 20240526230808.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240526223813.png",
+    "Linux System Guides/Pasted image 20240526230722.png",
+    "Linux System Guides/Linux System Guides.md",
+    "Linux System Guides",
+    "20240526123852.png.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Password OSINT .md",
     "TCM Security Course Notes/OSINT Fundamentals/Creating Sock Puppet Accounts.md",
     "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Password OSINT .md",
+    "TCM Security Course Notes/TCM Security Course Notes.md",
+    "TCM Security Course Notes/Practical Phishing Campaigns/Sending Our First Campaign.md",
+    "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass&nbsp;.md",
+    "TCM Security Course Notes/Practical Phishing Campaigns/Domain Reg.md",
+    "TCM Security Course Notes/Practical Phishing Campaigns/The Perimeter - A Cat and Mouse Game.md",
     "Awesome Tools and How to Use Them/To Do - Tool Guides.md",
     "Awesome Tools and How to Use Them/hcxtools.md",
     "Awesome Tools and How to Use Them/VPN + Proxychains.md",
@@ -197,27 +222,13 @@
     "Awesome Tools and How to Use Them/Storm-Breaker.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Attachments.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/Pasted image 20240526064056.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/asdasd.webp",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/Images - Password OSINT Section.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/Pasted image 20240526084043.png",
     "Pentesting/Pentesting.md",
     "Pentesting/Ethical Hacking Stages/NMAP Guide - Scanning Stage.md",
     "Pentesting/Ethical Hacking Stages/OSINT Guide Footprinting.md",
     "Pentesting/Ethical Hacking Stages/VMware Lab Set-Up.md",
     "Hacking Pentesting/RESEARCH EXERCISES/Untitled.md",
-    "Hacking Pentesting/RESEARCH EXERCISES/PsTools Utility Suite 🛠️.md",
-    "Hacking Pentesting/RESEARCH EXERCISES/Active Directory Misconfiguration.md",
-    "Pentesting/Device Guides/Untitled.md",
-    "Hacking Pentesting/Device Guides/📝 Flipper Zero Setup Guide 🚀.md",
-    "Pentesting/command breakdowns/Upload nc.exe command breakdown.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots/Pasted image 20240526060852.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots/Pasted image 20240526060728.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/1.jpg",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/caddy.webp",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots/Pasted image 20240526061821.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots/Pasted image 20240526061416.png",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section",
@@ -226,9 +237,7 @@
     "TCM Security Course Notes/OSINT Fundamentals",
     "Linx Commands/images",
     "Untitled.canvas",
-    "Spaces",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
     "Pentesting/assets/Untitled.canvas",
     "HackingPentesting/Canvas.canvas",

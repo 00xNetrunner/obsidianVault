@@ -6,7 +6,7 @@ banner: TCM Security Course Notes/OSINT Fundamentals/Attachments/asdasd.webp
 
 # Password OSINT - Hunting Breached Passwords Using Dehashed `fas:Key`
 
-## Dehashed `fas:Database` - ![[Pasted image 20240526123852.png]][https://dehashed.com/](https://dehashed.com/)
+## Dehashed `fas:Database` - ![[20240526123852.png]][https://dehashed.com/](https://dehashed.com/)
 
 **Dehashed** is a comprehensive database search engine that allows users to find information from breached databases. This service provides the ability to search for various types of data, including email addresses, usernames, IP addresses, and phone numbers. 
 

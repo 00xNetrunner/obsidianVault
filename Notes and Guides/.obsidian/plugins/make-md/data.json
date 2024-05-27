@@ -12,7 +12,7 @@
   "makerMode": true,
   "imageThumbnails": true,
   "spacesMDBInHidden": true,
-  "inlineStylerColors": false,
+  "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
@@ -71,7 +71,10 @@
     "TCM Security Course Notes/TCM Security Course Notes/OSINT Fundamentals/TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
     "TCM Security Course Notes/TCM Security Course Notes/OSINT Fundamentals/TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section",
     "BSc (Hons) Ethical Hacking",
-    "//TCM Security Course Notes/TCM Security Course Notes/Practical Phishing Campaigns"
+    "//TCM Security Course Notes/TCM Security Course Notes/Practical Phishing Campaigns",
+    "Pentesting/assets",
+    "//Untitled",
+    "//Linux System Guides"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
