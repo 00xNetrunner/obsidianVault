@@ -269,6 +269,36 @@ This practice of splitting our modules into smaller files makes it easier to man
 
 ![[Pasted image 20240527183334.png]]
 
+## Adding Unstable Packages. 
+Mentioned above we talked about how their are 3 different channels, Nix Packages are some of the most bleeding edge. the nix repository has even more packages than the AUR especially the Nix Unstable branch, 
+
+Lets say you want the newest neovim, well to do so you will need to add NixOS unstable branch to your system. to do this first lets input the following command
+
+```bash
+nix-channel -add \
+https://nixos.org/channels/nixos-unstable nixos
+nixos-rebuild switch --upgrade
+```
+
+![[Pasted image 20240528122508.png]]
+
+## Creating a rebuild script
+As a NixOS user you will be rebuilding and editing a lot of configs, its considered good practice to create a script to automate this process, for example here is a script created by YouTuber **No Boilerplate** 
+
+![[Pasted image 20240528123418.png]]
+
+A quick breakdown of what is happening here is the script opens up his .nix config file, the user can add what they want. soon as they save and exit, adds it to their git repo for nix, then rebuilds the system. when the system has rebuild it gets saved to a log, then the cat command is used to show if their has been any errors. 
+
+this is just to be used as an example, its best to create your own script tailored to you. 
+
+![[Pasted image 20240528124604.png]]
+
+
+
+
+
+
+
 ---
 
 **Reference List:**
