@@ -11,12 +11,9 @@
             "id": "9b358f078d3f6510",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Linux System Guides/NixOS.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png"
               }
             }
           }
@@ -79,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "644a38b12075da92",
@@ -96,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux System Guides/NixOS.md",
+                "file": "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux System Guides/NixOS.md",
+                "file": "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux System Guides/NixOS.md"
+                "file": "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png"
               }
             }
           },
@@ -187,22 +183,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b358f078d3f6510",
+  "active": "4dfbfcbf7cbd1d48",
   "lastOpenFiles": [
-    "Linux System Guides/Pasted image 20240528124604.png",
-    "Linux System Guides/Pasted image 20240528123418.png",
-    "Linux System Guides/Pasted image 20240528122508.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527174348.png",
-    "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
     "Linux System Guides/NixOS.md",
     "Spaces",
+    "Linux System Guides/NixOS_Images/Pasted image 20240528124604.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240528123418.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240527174348.png",
+    "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
     "Linux System Guides/NixOS_Images/Pasted image 20240527183334.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240527183208.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240527182851.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240527182815.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240527182558.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240527182238.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182102.png",
     "Awesome Tools and How to Use Them/Awesome Tools and How to Use Them.md",
     "Linx Commands/Linx Commands.md",
     "Linux System Guides/Linux System Guides.md",
