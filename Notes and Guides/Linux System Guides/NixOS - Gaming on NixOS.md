@@ -76,4 +76,10 @@ nix shell nixpkgs#pciutils -c lspci | grep ' VGA '
 ```
 
 ![[Pasted image 20240605062909.png]]
-As you can see running this command shows us the PCI ID in my case its `nvidia:01:00.0` `06:00.`
+As you can see running this command shows us the PCI ID in my case its `nvidia:01:00.0` `AMD:06:00.0`
+
+
+
+
+
+
