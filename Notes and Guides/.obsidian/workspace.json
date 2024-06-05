@@ -11,8 +11,13 @@
             "id": "6e7003f439e5d012",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -69,13 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "644a38b12075da92",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md"
+              }
             }
           },
           {
@@ -181,8 +188,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6e7003f439e5d012",
+  "active": "8b1c4da6879ad42f",
   "lastOpenFiles": [
+    "output/Shodan Cheat Sheet.md",
+    "output/attachment",
+    "output",
     "Untitled.canvas",
     "Linux System Guides/NixOS - Gaming on NixOS.md",
     "202406050302.md",
@@ -207,8 +217,6 @@
     "Linx Commands/Linx Commands.md",
     "Linux System Guides/Linux System Guides.md",
     "output/NixOS.md",
-    "output/attachment",
-    "output",
     "Linux System Guides/NixOS_Images/NixOS_Images.md",
     "Linux System Guides/NixOS_Images",
     "Linux System Guides",
