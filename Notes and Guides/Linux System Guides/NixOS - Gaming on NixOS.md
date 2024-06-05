@@ -1,8 +1,10 @@
 ---
 sticker: lucide//gamepad-2
 banner: https://i.imgur.com/lk40WVI.png
+tags:
+  - NIxOS
 ---
-## NixOS Gaming setup 
+## NixOS Gaming setup  `fas:Steam`
 
 **First thing we want to do is Enable OpenGL** 
 - also going to enable it so that i can use wayland on my system. 
@@ -17,21 +19,24 @@ banner: https://i.imgur.com/lk40WVI.png
 		driSupport32Bit = true;
 	};
 
+	# For NVIDIA
 	services.xserver.videoDrivers = ["nvidia"]; # For Nvidia
 	hardware.nvidia.modesettings.enable = true;
+
+    # For AMD
 	services.xserver.videoDrivers = ["amdgpu"]; # If you have a AMD GPU
 }
 ```
 
-## Hybrid Laptop and Optimus Prime
+## Hybrid Laptop and Optimus Prime `fas:LaptopCode`
 
 *SYNC VS OFFLOAD*
 
 - OFFLOAD mode, with offload mode the GPU will only be used when its needed. 
 - SYNC mode, dedicated GPU runs at all time. 
 
-#### Sync
-```bash
+#### SYNC `fas:Sync`
+```nix
 # Config.nix or Nvidia.nix
 { pkgs, ... }:
 {
@@ -39,7 +44,13 @@ banner: https://i.imgur.com/lk40WVI.png
 	  sync.enabled = true;
 
       # Integrated
-      amdgpuBusId = 
-  }
+      amdgpuBusId = "PCI:0:0:0";
+
+      nvidiaBusId = "PCI:0.0.0";
+  };
 }
 ```
+
+
+#### OFFLOAD `ris:Loader4`
+

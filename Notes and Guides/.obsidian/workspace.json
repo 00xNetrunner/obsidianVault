@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "353c919fd887aab8",
+        "id": "e3aa32c496084f68",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e30f40f52cb213",
+            "id": "6e7003f439e5d012",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "beautitab-react-view",
+              "state": {}
             }
           }
         ]
@@ -79,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "644a38b12075da92",
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,15 +177,16 @@
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "random-note:Open random note": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "f2e30f40f52cb213",
+  "active": "6e7003f439e5d012",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "Linux System Guides/NixOS - Gaming on NixOS.md",
     "202406050302.md",
     "2024-06-05.md",
-    "Linux System Guides/NixOS - Gaming on NixOS.md",
     "Linux System Guides/NixOS - Getting Started.md",
     "Awesome Tools and How to Use Them/Armitage.md",
     "Awesome Tools and How to Use Them/test.md",
