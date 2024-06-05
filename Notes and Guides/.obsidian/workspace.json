@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
-                "mode": "preview",
-                "backlinks": true,
+                "file": "Linux System Guides/NixOS - Hyprland .md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
+                "file": "Linux System Guides/NixOS - Hyprland .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
+                "file": "Linux System Guides/NixOS - Hyprland .md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md"
+                "file": "Linux System Guides/NixOS - Hyprland .md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "727ac722e290f9c1",
   "lastOpenFiles": [
-    "Linux System Guides/Untitled.md",
     "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "Linux System Guides/NixOS - Hyprland .md",
     "Linux System Guides/NixOS - Getting Started.md",
     "Linux System Guides/NixOS_Images/Pasted image 20240605062909.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240605070532.png",
