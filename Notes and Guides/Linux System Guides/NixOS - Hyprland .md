@@ -14,11 +14,11 @@ The first thing we need to do is add this line to our <span style='color:var(--m
 { pkgs, lib, inputs, ... }: {
 
   programs.hyprland.enable = true;
-  programs.hyprland.package = inputs.hyprland.packages
+  programs.hyprland.package = inputs.hyprland.packages."${pkgs.system}".hyprland;
 }
 ```
 
-we should also add the hyperland.url to our flake.nix
+we should also add the hyprland.url to our flake.nix
 ```
 {
   inputs = {
@@ -27,3 +27,5 @@ we should also add the hyperland.url to our flake.nix
 }
 ```
 
+
+Now thats done lets move on to our home-manager. and set up wayland config their. we can also add these settings to a hyprland.nix file that home-manager calls in. 
