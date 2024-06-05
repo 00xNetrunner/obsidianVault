@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3aa32c496084f68",
+        "id": "43bc9a99fa724387",
         "type": "tabs",
         "children": [
           {
-            "id": "6e7003f439e5d012",
+            "id": "d0d7e4c4a90c140e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "path": "Linux System Guides/NixOS_Images"
               }
             }
           }
@@ -79,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "644a38b12075da92",
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux System Guides/NixOS - Gaming on NixOS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,16 +182,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6e7003f439e5d012",
+  "active": "d0d7e4c4a90c140e",
   "lastOpenFiles": [
-    "Linux System Guides/Pasted image 20240605070532.png",
-    "Linux System Guides/Pasted image 20240605065219.png",
-    "Linux System Guides/Pasted image 20240605064804.png",
-    "Linux System Guides/Pasted image 20240605063343.png",
-    "Linux System Guides/Pasted image 20240605063242.png",
-    "Linux System Guides/Pasted image 20240605062909.png",
-    "Linux System Guides/Pasted image 20240605062403.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605062909.png",
     "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605070532.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605065219.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605064804.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605063343.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605063242.png",
+    "Linux System Guides/Pasted image 20240605062403.png",
     "output/NixOS - Gaming on NixOS.html",
     "output/attachment",
     "output",
@@ -210,7 +202,6 @@
     "output/attachment/e046e534354aac42e9d368f1a2266727.png",
     "output/attachment/ffc5f5aee7204f1e31c60b7daef492c7.png",
     "output/attachment/67e6eb8850b086960a24ad3a58434ed0.png",
-    "output/attachment/0f8411a1467cbdbedd5703f12a7d03e3.png",
     "Pentesting/Ethical Hacking Stages/System Hacking Guide Part 2 🏴‍☠️.md",
     "Pentesting/Ethical Hacking Stages/VMware Lab Set-Up.md",
     "Linux System Guides/Linux System Guides.md",

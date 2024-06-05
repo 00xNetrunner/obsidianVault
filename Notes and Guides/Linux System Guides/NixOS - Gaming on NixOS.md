@@ -119,8 +119,6 @@ To make use of these tools we need to add them to our Launch options in steam.
 # NOT FINISHED
 https://youtu.be/qlfm3MEbqYA?t=338
 ## ToDo
-- [ ] Install Proton 
-- [ ] Set up bottles and heroic
-- [ ] Check out protondb
-
-- 
+- [ ] Install Proton and add it to the guide ➕ 2024-06-05
+- [ ] Set up bottles and heroic {Steam Alternatives} ➕ 2024-06-05 ⏳ 2024-06-10
+- [ ] add Sections about protondb website ➕ 2024-06-05 ⏳ 2024-06-10 📅 2024-06-10
