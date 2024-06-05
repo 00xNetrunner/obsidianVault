@@ -28,6 +28,7 @@ tags:
 }
 ```
 
+--------------------------------
 ## Hybrid Laptop and Optimus Prime `fas:LaptopCode`
 
 *SYNC VS OFFLOAD*

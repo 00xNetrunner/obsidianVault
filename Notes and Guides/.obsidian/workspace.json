@@ -11,9 +11,12 @@
             "id": "727ac722e290f9c1",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Linux System Guides"
+                "file": "Linux System Guides/Untitled.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux System Guides/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux System Guides/Untitled.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux System Guides/Untitled.md"
+              }
             }
           },
           {
@@ -185,6 +192,7 @@
   "active": "727ac722e290f9c1",
   "lastOpenFiles": [
     "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "Linux System Guides/Untitled.md",
     "Linux System Guides/NixOS - Getting Started.md",
     "Linux System Guides/NixOS_Images/Pasted image 20240605062909.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240605070532.png",
