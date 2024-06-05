@@ -9,9 +9,29 @@ description: |-
 ```
 
 #### Getting started
-The first thing we need to do is add this line to our configuration.nix: 
+The first thing we need to do is add this line to our <span style='color:var(--mk-color-purple)'>configuration.nix</span>: 
 ```nix
 programs.hyprland.enable = true;
 ```
 
-That is all you need to do if you are a AMD Users, for NVIDIA users however a more rigorous set up is required. 
+That is all you need to do if you are a AMD Users, for NVIDIA users however a more rigorous set up is required. add the lines of code to you <span style='color:var(--mk-color-purple)'>configuration.nix</span>
+```nix
+  # Enabling hyperland on NixOS
+  programs.hyprland = {
+    enable = true;
+    #nvidiaPatches = true; ## NO LONGER NEEDED
+    xwayland.enable = true;
+  };
+
+  environment.sessionVariables = {
+    WLR_NO_HARDWARE_CURSORS = "1";
+    NIXOS_OZONE_WL = "1";
+  };
+
+  hardware = {
+    opengl.enable = true;
+    nvidia.modesetting.enable = true;
+  };
+```
+
+sudo 
