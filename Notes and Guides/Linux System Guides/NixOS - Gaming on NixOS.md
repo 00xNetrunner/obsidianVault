@@ -60,7 +60,7 @@ tags:
   hardware.nvidia.prime = {
     offload = {
       enable = true;
-      enableOffloadCmd = true;
+      enableOffloadCmd = true; #allows us to run the nvidia-offload command
     };
       # Integrated
       amdgpuBusId = "PCI:0:0:0";
@@ -76,10 +76,14 @@ nix shell nixpkgs#pciutils -c lspci | grep ' VGA '
 ```
 
 ![[Pasted image 20240605062909.png]]
-As you can see running this command shows us the PCI ID in my case its `nvidia:01:00.0` `AMD:06:00.0`
 
+> [!success]
+> As you can see running this command shows us the PCI ID in my case its `nvidia:01:00.0` `AMD:06:00.0`
 
+> [!warning]
+> Please note if offload configuration was chosen we can use the `nvidia-offload` command to start a game or use <mark style='background:var(--mk-color-purple)'>hashcats</mark>
+![[Pasted image 20240605064804.png]]
 
+what one to use? Well it depends on what you are doing and where you are, if you are connected to a power supply its best to use Sync but if you are travelling a lot and need to conserve battery, offload its better suited. 
 
-
-
+This is NixOS however and you know we
