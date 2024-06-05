@@ -27,4 +27,19 @@ banner: https://i.imgur.com/lk40WVI.png
 
 *SYNC VS OFFLOAD*
 
-- OFFLOAD mode, with offload mode the GPU will only be used when its needed 
+- OFFLOAD mode, with offload mode the GPU will only be used when its needed. 
+- SYNC mode, dedicated GPU runs at all time. 
+
+#### Sync
+```bash
+# Config.nix or Nvidia.nix
+{ pkgs, ... }:
+{
+  hardware.nvidia.prime = {
+	  sync.enabled = true;
+
+      # Integrated
+      amdgpuBusId = 
+  }
+}
+```
