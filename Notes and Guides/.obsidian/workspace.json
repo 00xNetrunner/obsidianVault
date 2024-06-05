@@ -15,7 +15,7 @@
               "state": {
                 "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -192,8 +192,13 @@
   },
   "active": "6e7003f439e5d012",
   "lastOpenFiles": [
-    "Linux System Guides/NixOS - Getting Started.md",
+    "Linux System Guides/Pasted image 20240605062909.png",
+    "Linux System Guides/Pasted image 20240605062403.png",
     "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "output/NixOS - Gaming on NixOS.html",
+    "output/attachment",
+    "output",
+    "Linux System Guides/NixOS - Getting Started.md",
     "Pentesting/Ethical Hacking Stages/System Hacking Guide Part 1 🏴‍☠️.md",
     "output/System Hacking Guide Part 1 🏴‍☠️.md",
     "output/attachment/78600b85788e91aa81624d576ae72dba.pdf",
@@ -206,9 +211,6 @@
     "output/attachment/00028a4779421671c399fa1d1abbb26e.png",
     "output/attachment/afb895165a3d61717d20a3e5cc0b0455.png",
     "output/attachment/96b6f4884ecccf683259faab14a9dda6.png",
-    "output/attachment/d80ff2812afc20d426bac5f736fc293f.png",
-    "output/attachment",
-    "output",
     "Pentesting/Ethical Hacking Stages/System Hacking Guide Part 2 🏴‍☠️.md",
     "Pentesting/Ethical Hacking Stages/VMware Lab Set-Up.md",
     "Linux System Guides/Linux System Guides.md",
@@ -234,12 +236,10 @@
     "TCM Security Course Notes/OSINT Fundamentals/Password OSINT .md",
     "TCM Security Course Notes/OSINT Fundamentals/Creating Sock Puppet Accounts.md",
     "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
     "Pentesting/assets/Untitled.canvas",

@@ -54,11 +54,26 @@ tags:
 
 #### OFFLOAD `ris:Loader4`
 ```nix
-# Add this to Config.nix or Nvidia.nix
-{ config, pkgs, ... }:
-
+# Config.nix or Nvidia.nix
+{ pkgs, ... }:
 {
-  
+  hardware.nvidia.prime = {
+    offload = {
+      enable = true;
+      enableOffloadCmd = true;
+    };
+      # Integrated
+      amdgpuBusId = "PCI:0:0:0";
+      # dedicated
+      nvidiaBusId = "PCI:0.0.0"
+  };
 }
 ```
 
+To find out our PCI ID we can run the following command
+```bash
+nix shell nixpkgs#pciutils -c lspci | grep ' VGA '
+```
+
+![[Pasted image 20240605062909.png]]
+As you can see running this command shows us the PCI ID in my case its `nvidia:01:00.0` `06:00.`
