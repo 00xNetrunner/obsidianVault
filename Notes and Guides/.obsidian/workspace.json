@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
+                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,11 +74,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "644a38b12075da92",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
+                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
+                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md"
+                "file": "Linux System Guides/NixOS - Gaming on NixOS.md"
               }
             }
           },
@@ -188,34 +190,42 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8b1c4da6879ad42f",
+  "active": "6e7003f439e5d012",
   "lastOpenFiles": [
-    "output/Shodan Cheat Sheet.md",
+    "Linux System Guides/NixOS - Getting Started.md",
+    "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "Pentesting/Ethical Hacking Stages/System Hacking Guide Part 1 🏴‍☠️.md",
+    "output/System Hacking Guide Part 1 🏴‍☠️.md",
+    "output/attachment/78600b85788e91aa81624d576ae72dba.pdf",
+    "output/attachment/e046e534354aac42e9d368f1a2266727.png",
+    "output/attachment/ffc5f5aee7204f1e31c60b7daef492c7.png",
+    "output/attachment/67e6eb8850b086960a24ad3a58434ed0.png",
+    "output/attachment/0f8411a1467cbdbedd5703f12a7d03e3.png",
+    "output/attachment/5c366a0470643659071a65083ca92150.png",
+    "output/attachment/e15a7542fd8bce2841492b43a5a70178.png",
+    "output/attachment/00028a4779421671c399fa1d1abbb26e.png",
+    "output/attachment/afb895165a3d61717d20a3e5cc0b0455.png",
+    "output/attachment/96b6f4884ecccf683259faab14a9dda6.png",
+    "output/attachment/d80ff2812afc20d426bac5f736fc293f.png",
     "output/attachment",
     "output",
+    "Pentesting/Ethical Hacking Stages/System Hacking Guide Part 2 🏴‍☠️.md",
+    "Pentesting/Ethical Hacking Stages/VMware Lab Set-Up.md",
+    "Linux System Guides/Linux System Guides.md",
+    "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
+    "Awesome Tools and How to Use Them/OSINT Cheatsheet.md",
+    "Awesome Tools and How to Use Them/OpenStego.md",
+    "Awesome Tools and How to Use Them/hcxtools.md",
+    "Awesome Tools and How to Use Them/Awesome Tools and How to Use Them.md",
+    "Awesome Tools and How to Use Them/Armitage.md",
+    "Awesome Tools and How to Use Them/Storm-Breaker.md",
+    "output/Shodan Cheat Sheet.md",
     "Untitled.canvas",
-    "Linux System Guides/NixOS - Gaming on NixOS.md",
     "202406050302.md",
     "2024-06-05.md",
-    "Linux System Guides/NixOS - Getting Started.md",
-    "Awesome Tools and How to Use Them/Armitage.md",
     "Awesome Tools and How to Use Them/test.md",
-    "Awesome Tools and How to Use Them/hcxtools.md",
-    "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
     "Spaces",
-    "Linux System Guides/NixOS_Images/Pasted image 20240528124604.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240528123418.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527174348.png",
-    "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527183334.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527183208.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182851.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182815.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182558.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182238.png",
-    "Awesome Tools and How to Use Them/Awesome Tools and How to Use Them.md",
     "Linx Commands/Linx Commands.md",
-    "Linux System Guides/Linux System Guides.md",
     "output/NixOS.md",
     "Linux System Guides/NixOS_Images/NixOS_Images.md",
     "Linux System Guides/NixOS_Images",
@@ -225,19 +235,11 @@
     "TCM Security Course Notes/OSINT Fundamentals/Creating Sock Puppet Accounts.md",
     "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
-    "TCM Security Course Notes/TCM Security Course Notes.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Sending Our First Campaign.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass&nbsp;.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Domain Reg.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/The Perimeter - A Cat and Mouse Game.md",
-    "Awesome Tools and How to Use Them/To Do - Tool Guides.md",
-    "Awesome Tools and How to Use Them/VPN + Proxychains.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section",
-    "TCM Security Course Notes/OSINT Fundamentals/Image OSINT",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
     "Pentesting/assets/Untitled.canvas",

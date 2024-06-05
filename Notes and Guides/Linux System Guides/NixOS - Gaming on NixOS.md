@@ -53,4 +53,12 @@ tags:
 
 
 #### OFFLOAD `ris:Loader4`
+```nix
+# Add this to Config.nix or Nvidia.nix
+{ config, pkgs, ... }:
+
+{
+  
+}
+```
 
