@@ -164,7 +164,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "727ac722e290f9c1",
+  "active": "0b8cbe203f10f887",
   "lastOpenFiles": [
     "Linux System Guides/Pasted image 20240605105715.png",
     "Linux System Guides/NixOS - Gaming on NixOS.md",
