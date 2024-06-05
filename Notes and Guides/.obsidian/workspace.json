@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e94e522fbb95030",
+        "id": "a0fbd91c9802143f",
         "type": "tabs",
         "children": [
           {
-            "id": "9b358f078d3f6510",
+            "id": "f1604cc649869267",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "mk-space",
               "state": {
-                "file": "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png"
+                "path": "HackTheBox Pentesting Pathway"
               }
             }
           }
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "4dfbfcbf7cbd1d48",
+            "id": "4cefd03c08fbf909",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png"
-              }
+              "state": {}
             }
           },
           {
@@ -160,8 +156,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,16 +175,24 @@
       "audio-recorder:Start/stop recording": false,
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4dfbfcbf7cbd1d48",
+  "active": "f1604cc649869267",
   "lastOpenFiles": [
-    "Linux System Guides/NixOS.md",
+    "Untitled.canvas",
+    "202406050302.md",
+    "2024-06-05.md",
+    "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "Linux System Guides/NixOS - Getting Started.md",
+    "Awesome Tools and How to Use Them/Armitage.md",
+    "Awesome Tools and How to Use Them/test.md",
+    "Awesome Tools and How to Use Them/hcxtools.md",
+    "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
     "Spaces",
     "Linux System Guides/NixOS_Images/Pasted image 20240528124604.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240528123418.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240527174348.png",
     "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
     "Linux System Guides/NixOS_Images/Pasted image 20240527183334.png",
@@ -218,20 +221,13 @@
     "TCM Security Course Notes/Practical Phishing Campaigns/Domain Reg.md",
     "TCM Security Course Notes/Practical Phishing Campaigns/The Perimeter - A Cat and Mouse Game.md",
     "Awesome Tools and How to Use Them/To Do - Tool Guides.md",
-    "Awesome Tools and How to Use Them/hcxtools.md",
     "Awesome Tools and How to Use Them/VPN + Proxychains.md",
-    "Awesome Tools and How to Use Them/Website OSINT Tools.md",
-    "Awesome Tools and How to Use Them/Storm-Breaker.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Attachments.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/Images - Password OSINT Section.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
-    "Pentesting/Pentesting.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section",
     "TCM Security Course Notes/OSINT Fundamentals/Image OSINT",
-    "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
     "Pentesting/assets/Untitled.canvas",
