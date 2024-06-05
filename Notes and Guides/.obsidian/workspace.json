@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "43bc9a99fa724387",
+        "id": "263f3eda85f4c0a8",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d7e4c4a90c140e",
+            "id": "727ac722e290f9c1",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Linux System Guides/NixOS_Images"
-              }
+              "type": "beautitab-react-view",
+              "state": {}
             }
           }
         ]
@@ -182,7 +180,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d0d7e4c4a90c140e",
+  "active": "727ac722e290f9c1",
   "lastOpenFiles": [
     "Linux System Guides/NixOS_Images/Pasted image 20240605062909.png",
     "Linux System Guides/NixOS - Gaming on NixOS.md",
