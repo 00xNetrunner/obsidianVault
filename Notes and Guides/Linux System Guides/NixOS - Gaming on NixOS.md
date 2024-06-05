@@ -18,7 +18,13 @@ banner: https://i.imgur.com/lk40WVI.png
 	};
 
 	services.xserver.videoDrivers = ["nvidia"]; # For Nvidia
+	hardware.nvidia.modesettings.enable = true;
 	services.xserver.videoDrivers = ["amdgpu"]; # If you have a AMD GPU
 }
 ```
 
+## Hybrid Laptop and Optimus Prime
+
+*SYNC VS OFFLOAD*
+
+- OFFLOAD mode, with offload mode the GPU will only be used when its needed 

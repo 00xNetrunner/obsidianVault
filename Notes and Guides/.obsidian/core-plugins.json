@@ -17,9 +17,11 @@
   "bookmarks",
   "markdown-importer",
   "zk-prefixer",
+  "random-note",
   "outline",
   "word-count",
   "audio-recorder",
   "file-recovery",
+  "publish",
   "sync"
 ]
