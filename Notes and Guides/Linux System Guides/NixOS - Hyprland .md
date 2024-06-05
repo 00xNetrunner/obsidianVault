@@ -28,4 +28,4 @@ we should also add the hyprland.url to our flake.nix
 ```
 
 
-Now thats done lets move on to our home-manager. and set up wayland config their. we can also add these settings to a hyprland.nix file that home-manager calls in. 
+Now that's done lets move on to our home-manager. and set up wayland config their. we can also add these settings to a hyprland.nix file that home-manager calls in. 
