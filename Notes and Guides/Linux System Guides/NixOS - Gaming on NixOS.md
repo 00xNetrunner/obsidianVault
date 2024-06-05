@@ -86,4 +86,14 @@ nix shell nixpkgs#pciutils -c lspci | grep ' VGA '
 
 what one to use? Well it depends on what you are doing and where you are, if you are connected to a power supply its best to use Sync but if you are travelling a lot and need to conserve battery, offload its better suited. 
 
-This is NixOS however and you know we
+This is NixOS however and you know we can do both. if we add these lines of code under the offload options. we can have it so that every time we boot we will see in our grub or boot loader that their will be 2 options offload and sync. 
+
+![[Pasted image 20240605065219.png]]
+
+> [!NOTE]
+> if you are lucky their might be your hardware configuration on the NixOS repo - [NixOS Hardware](https://github.com/NixOS/nixos-hardware)
+
+
+## Setting Up Steam `fas:Steam`
+
+Lets get started on setting up steam, to do this we need to go back into out configuration.nix once again and 
