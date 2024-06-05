@@ -82,13 +82,13 @@ nix shell nixpkgs#pciutils -c lspci | grep ' VGA '
 
 > [!warning]
 > Please note if offload configuration was chosen we can use the `nvidia-offload` command to start a game or use <mark style='background:var(--mk-color-purple)'>hashcats</mark>
-![[Pasted image 20240605064804.png]]
+![[Pasted image 20240605064804.png|source - vimjoyer]]
 
 what one to use? Well it depends on what you are doing and where you are, if you are connected to a power supply its best to use Sync but if you are travelling a lot and need to conserve battery, offload its better suited. 
 
 This is NixOS however and you know we can do both. if we add these lines of code under the offload options. we can have it so that every time we boot we will see in our grub or boot loader that their will be 2 options offload and sync. 
 
-![[Pasted image 20240605065219.png]]
+![[Pasted image 20240605065219.png|Source - Vimjoyer]]
 
 > [!NOTE]
 > if you are lucky their might be your hardware configuration on the NixOS repo - [NixOS Hardware](https://github.com/NixOS/nixos-hardware)
@@ -96,4 +96,31 @@ This is NixOS however and you know we can do both. if we add these lines of code
 
 ## Setting Up Steam `fas:Steam`
 
-Lets get started on setting up steam, to do this we need to go back into out configuration.nix once again and 
+Lets get started on setting up steam, to do this we need to go back into out configuration.nix once again and a few lines of code
+```nix
+# config.nix or steam.nix
+{ pkgs, ... }:
+{
+  programs.steam.enable = true;   # Enableing Steam will also install it
+  programs.steam.gamescopeSession.enable = true;    # Helps with upscaling or res
+
+  # mangohud is a tool used to monitor game performance. 
+  enviroment.systemPackages = with pkgs; [
+    mangohud
+  ];
+
+  programs.gamemode.enable = true    #Better optimization for games, 
+}
+```
+
+To make use of these tools we need to add them to our Launch options in steam. 
+![[Pasted image 20240605070532.png|Source - Vimjoyer]]
+
+# NOT FINISHED
+https://youtu.be/qlfm3MEbqYA?t=338
+## ToDo
+- [ ] Install Proton 
+- [ ] Set up bottles and heroic
+- [ ] Check out protondb
+
+- 
