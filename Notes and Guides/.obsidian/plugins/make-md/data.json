@@ -74,8 +74,10 @@
     "//TCM Security Course Notes/TCM Security Course Notes/Practical Phishing Campaigns",
     "Pentesting/assets",
     "//Untitled",
+    "//Digital Forensics",
     "//Awesome Tools and How to Use Them",
-    "//Linux System Guides"
+    "//Pentesting",
+    "//Linx Commands"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
