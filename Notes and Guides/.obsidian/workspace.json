@@ -182,6 +182,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes...": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
