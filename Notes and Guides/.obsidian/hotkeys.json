@@ -43,13 +43,13 @@
       "key": "O"
     }
   ],
-  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+  "obsidian-tasks-plugin:edit-task": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "R"
+      "key": "Enter"
     }
-  ]
+  ],
+  "editor:open-link-in-new-leaf": []
 }

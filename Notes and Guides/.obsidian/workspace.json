@@ -11,16 +11,25 @@
             "id": "9b358f078d3f6510",
             "type": "leaf",
             "state": {
+              "type": "beautitab-react-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2c81df2f8da9620",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux System Guides/NixOS.md",
-                "mode": "preview",
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux System Guides/NixOS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux System Guides/NixOS.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux System Guides/NixOS.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -186,22 +195,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b358f078d3f6510",
+  "active": "a2c81df2f8da9620",
   "lastOpenFiles": [
-    "Linux System Guides/Pasted image 20240528124604.png",
-    "Linux System Guides/Pasted image 20240528123418.png",
-    "Linux System Guides/Pasted image 20240528122508.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527174348.png",
-    "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
+    "Linux System Guides/NixOS - Hyprland .md",
+    "Linux System Guides/Pasted image 20240605105715.png",
+    "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "conflict-files-obsidian-git.md",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605070532.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605065219.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605064804.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605063343.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605063242.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240605062909.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240528124604.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240528123418.png",
+    "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
+    "Linux System Guides/NixOS - Getting Started.md",
     "Linux System Guides/NixOS.md",
+    "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
     "Spaces",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527183334.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527183208.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182851.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182815.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182558.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182238.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240527182102.png",
     "Awesome Tools and How to Use Them/Awesome Tools and How to Use Them.md",
     "Linx Commands/Linx Commands.md",
     "Linux System Guides/Linux System Guides.md",
@@ -225,12 +237,8 @@
     "Awesome Tools and How to Use Them/hcxtools.md",
     "Awesome Tools and How to Use Them/VPN + Proxychains.md",
     "Awesome Tools and How to Use Them/Website OSINT Tools.md",
-    "Awesome Tools and How to Use Them/Storm-Breaker.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Attachments.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section/Images - Password OSINT Section.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
-    "Pentesting/Pentesting.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section",
