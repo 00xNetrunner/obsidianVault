@@ -27,7 +27,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 5,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -74,10 +74,7 @@
     "//TCM Security Course Notes/TCM Security Course Notes/Practical Phishing Campaigns",
     "Pentesting/assets",
     "//Untitled",
-    "//Digital Forensics",
-    "//Awesome Tools and How to Use Them",
-    "//Pentesting",
-    "//Linx Commands"
+    "HackTheBox Pentesting Pathway"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
