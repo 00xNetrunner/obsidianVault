@@ -11,9 +11,12 @@
             "id": "9b358f078d3f6510",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "HackTheBox Pentesting Pathway"
+                "file": "Linux System Guides/NixOS - Nixvim.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux System Guides/NixOS - Nixvim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux System Guides/NixOS - Nixvim.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux System Guides/NixOS - Nixvim.md"
+              }
             }
           },
           {
@@ -185,12 +192,16 @@
   },
   "active": "9b358f078d3f6510",
   "lastOpenFiles": [
+    "Linux System Guides/nixvim.png",
+    "Linux System Guides/GOe0C7Qtypk 00-06-45 (2) Nixvim Configure Neovim with the power of Nix (NeovimConf 2023).png",
+    "Linux System Guides/NixOS - Nixvim.md",
     "Linx Commands/GPG and Tarball&nbsp;.md",
-    "Spaces",
     "Linux System Guides/NixOS - Hyprland .md",
+    "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "Linux System Guides/NixOS - Getting Started.md",
+    "Spaces",
     "conflict-files-obsidian-git.md",
     "Linux System Guides/NixOS_Images/Pasted image 20240605105715.png",
-    "Linux System Guides/NixOS - Gaming on NixOS.md",
     "Linux System Guides/NixOS_Images/Pasted image 20240605070532.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240605065219.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240605064804.png",
@@ -199,8 +210,6 @@
     "Linux System Guides/NixOS_Images/Pasted image 20240605062909.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240528124604.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240528123418.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240528122508.png",
-    "Linux System Guides/NixOS - Getting Started.md",
     "Linux System Guides/NixOS.md",
     "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
     "Awesome Tools and How to Use Them/Awesome Tools and How to Use Them.md",
@@ -224,8 +233,6 @@
     "TCM Security Course Notes/Practical Phishing Campaigns/The Perimeter - A Cat and Mouse Game.md",
     "Awesome Tools and How to Use Them/To Do - Tool Guides.md",
     "Awesome Tools and How to Use Them/hcxtools.md",
-    "Awesome Tools and How to Use Them/VPN + Proxychains.md",
-    "Awesome Tools and How to Use Them/Website OSINT Tools.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
