@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "4dfbfcbf7cbd1d48",
+            "id": "de7915dac03c0e2c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -184,22 +184,19 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b358f078d3f6510",
+  "active": "fc1497a8c275c9c6",
   "lastOpenFiles": [
+    "Spaces",
+    "Linux System Guides/NixOS - Nixvim.md",
     "Linux System Guides/nixvim.png",
     "Linux System Guides/GOe0C7Qtypk 00-06-45 (2) Nixvim Configure Neovim with the power of Nix (NeovimConf 2023).png",
-    "Linux System Guides/NixOS - Nixvim.md",
     "Linx Commands/GPG and Tarball&nbsp;.md",
     "Linux System Guides/NixOS - Hyprland .md",
     "Linux System Guides/NixOS - Gaming on NixOS.md",
     "Linux System Guides/NixOS - Getting Started.md",
-    "Spaces",
     "conflict-files-obsidian-git.md",
     "Linux System Guides/NixOS_Images/Pasted image 20240605105715.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240605070532.png",
@@ -209,7 +206,6 @@
     "Linux System Guides/NixOS_Images/Pasted image 20240605063242.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240605062909.png",
     "Linux System Guides/NixOS_Images/Pasted image 20240528124604.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240528123418.png",
     "Linux System Guides/NixOS.md",
     "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
     "Awesome Tools and How to Use Them/Awesome Tools and How to Use Them.md",
