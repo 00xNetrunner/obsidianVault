@@ -27,7 +27,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 4,
+  "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -76,7 +76,9 @@
     "//Untitled",
     "HackTheBox Pentesting Pathway",
     "Linux System Guides",
-    "Linx Commands"
+    "Linx Commands",
+    "HackTheBox Pentesting Pathway/HackTheBox Pentesting Pathway/Shells And Payloads",
+    "TCM Security Course Notes/TCM Security Course Notes/OSINT Fundamentals"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

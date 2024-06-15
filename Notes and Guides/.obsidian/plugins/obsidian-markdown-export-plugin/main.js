@@ -275,15 +275,18 @@ var import_obsidian3 = require("obsidian");
 var path3 = __toESM(require("path"));
 
 // src/config.ts
-var ATTACHMENT_URL_REGEXP = /!\[\[((.*?)\.(\w+))(?:\s*\|\s*(\d+)\s*(?:\*\s*(\d+))?)?\]\]/g;
+var ATTACHMENT_URL_REGEXP = /!\[\[((.*?)\.(\w+))(?:\s*\|\s*(?<width>\d+)\s*(?:[*|x]\s*(?<height>\d+))?)?\]\]/g;
 var MARKDOWN_ATTACHMENT_URL_REGEXP = /!\[(.*?)\]\(((.*?)\.(\w+))\)/g;
 var EMBED_URL_REGEXP = /!\[\[(.*?)\]\]/g;
 var GFM_IMAGE_FORMAT = "![]({0})";
+var OUTGOING_LINK_REGEXP = /(?<!!)\[\[(.*?)\]\]/g;
 var DEFAULT_SETTINGS = {
   output: "output",
   attachment: "attachment",
+  displayImageAsHtml: true,
   GFM: true,
-  fileNameEncode: true
+  fileNameEncode: true,
+  removeOutgoingLinkBrackets: true
 };
 
 // src/utils.ts
@@ -478,6 +481,7 @@ async function tryCopyMarkdownByRead(plugin, { file, outputFormat, outputSubPath
       const imageLinks = await getImageLinks(content);
       for (const index in imageLinks) {
         const rawImageLink = imageLinks[index][0];
+        const { width, height } = imageLinks[index].groups;
         const urlEncodedImageLink = imageLinks[index][7 - imageLinks[index].length];
         let imageLink = decodeURI(urlEncodedImageLink).replace(/\.\.\//g, "");
         if (imageLink.contains("|")) {
@@ -491,11 +495,17 @@ async function tryCopyMarkdownByRead(plugin, { file, outputFormat, outputSubPath
         if (urlEncodedImageLink.startsWith("http")) {
           continue;
         }
-        if (plugin.settings.GFM) {
+        if (plugin.settings.displayImageAsHtml) {
+          const style = width && height ? ` style='width: {${width}}px; height: ${height}px;'` : width ? ` style='width: ${width}px;'` : height ? ` style='height: ${height}px;'` : "";
+          content = content.replace(rawImageLink, `<img src="${hashLink}"${style} />`);
+        } else if (plugin.settings.GFM) {
           content = content.replace(rawImageLink, GFM_IMAGE_FORMAT.format(hashLink));
         } else {
           content = content.replace(urlEncodedImageLink, hashLink);
         }
+      }
+      if (plugin.settings.removeOutgoingLinkBrackets) {
+        content = content.replaceAll(OUTGOING_LINK_REGEXP, "$1");
       }
       const cfile = plugin.app.workspace.getActiveFile();
       if (cfile != void 0) {
@@ -599,8 +609,16 @@ var MarkdownExportSettingTab = class extends import_obsidian3.PluginSettingTab {
       this.plugin.settings.GFM = value;
       await this.plugin.saveSettings();
     }));
+    new import_obsidian3.Setting(containerEl).setName("Use Html tag <img /> to display image").setDesc("true default, <img /> tag will use the size specified in obsidian.").addToggle((toggle) => toggle.setValue(this.plugin.settings.displayImageAsHtml).onChange(async (value) => {
+      this.plugin.settings.displayImageAsHtml = value;
+      await this.plugin.saveSettings();
+    }));
     new import_obsidian3.Setting(containerEl).setName("Encode file name").setDesc("true default, if you want to keep the original file name, set this to false").addToggle((toggle) => toggle.setValue(this.plugin.settings.fileNameEncode).onChange(async (value) => {
       this.plugin.settings.fileNameEncode = value;
+      await this.plugin.saveSettings();
+    }));
+    new import_obsidian3.Setting(containerEl).setName("Remove brackets for outgoing links").setDesc("true default, if you want to keep the brackets in links, set this to false").addToggle((toggle) => toggle.setValue(this.plugin.settings.removeOutgoingLinkBrackets).onChange(async (value) => {
+      this.plugin.settings.removeOutgoingLinkBrackets = value;
       await this.plugin.saveSettings();
     }));
   }

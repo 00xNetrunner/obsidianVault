@@ -45,4 +45,5 @@ Alternatively, you can enter the hash into the following websites to find the co
 > [!TIP]
 > Regularly update your search methods and tools, as new databases and techniques become available frequently. This ensures you are using the most effective strategies for password OSINT.
 
-By following these steps and utilizing the resources provided, you can effectively hunt for breached passwords and strengthen your security measures.
+By following these steps and utilising the resources provided, you can effectively hunt for breached passwords and strengthen your security measures.
+

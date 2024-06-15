@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux System Guides/NixOS - Nixvim.md",
+                "file": "TCM Security Course Notes/OSINT Fundamentals/Username OSINT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "de7915dac03c0e2c",
+            "id": "3c97fa7beb65ab4e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "644a38b12075da92",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux System Guides/NixOS - Nixvim.md",
+                "file": "TCM Security Course Notes/OSINT Fundamentals/Username OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux System Guides/NixOS - Nixvim.md",
+                "file": "TCM Security Course Notes/OSINT Fundamentals/Username OSINT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux System Guides/NixOS - Nixvim.md"
+                "file": "TCM Security Course Notes/OSINT Fundamentals/Username OSINT.md"
               }
             }
           },
@@ -184,28 +185,46 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fc1497a8c275c9c6",
+  "active": "9b358f078d3f6510",
   "lastOpenFiles": [
-    "Spaces",
-    "Linux System Guides/NixOS - Nixvim.md",
-    "Linux System Guides/nixvim.png",
-    "Linux System Guides/GOe0C7Qtypk 00-06-45 (2) Nixvim Configure Neovim with the power of Nix (NeovimConf 2023).png",
-    "Linx Commands/GPG and Tarball&nbsp;.md",
-    "Linux System Guides/NixOS - Hyprland .md",
+    "TCM Security Course Notes/OSINT Fundamentals/Pasted image 20240615180946.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Pasted image 20240615180808.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Pasted image 20240615180207.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Pasted image 20240615180156.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615175559.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Username OSINT.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615175532.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615175200.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615172740.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Password OSINT  - Part Two.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615165151.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615172059.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615171904.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Password OSINT - Part One.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Attachments.md",
+    "TCM Security Course Notes/OSINT Fundamentals/.md",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Shells and Payloads Write Up.md",
     "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Attachments - Images/Attachments - Images.md",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Attachments - Images",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Shells And Payloads.md",
+    "HackTheBox Pentesting Pathway/Shells And Payloads",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Attachments - Images/Shells_Payloads_Module_Cheat_Sheet.pdf",
+    "HackTheBox Pentesting Pathway/Information Gathering Web Edition.md",
     "Linux System Guides/NixOS - Getting Started.md",
+    "Linux System Guides/NixOS - Hyprland .md",
+    "Linux System Guides/NixOS - Nixvim.md",
+    "Spaces",
+    "Linx Commands/GPG and Tarball&nbsp;.md",
     "conflict-files-obsidian-git.md",
-    "Linux System Guides/NixOS_Images/Pasted image 20240605105715.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240605070532.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240605065219.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240605064804.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240605063343.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240605063242.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240605062909.png",
-    "Linux System Guides/NixOS_Images/Pasted image 20240528124604.png",
     "Linux System Guides/NixOS.md",
     "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
     "Awesome Tools and How to Use Them/Awesome Tools and How to Use Them.md",
@@ -218,23 +237,9 @@
     "Linux System Guides/NixOS_Images",
     "Linux System Guides",
     "20240526123852.png.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Password OSINT .md",
-    "TCM Security Course Notes/OSINT Fundamentals/Creating Sock Puppet Accounts.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
-    "TCM Security Course Notes/TCM Security Course Notes.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Sending Our First Campaign.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass&nbsp;.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Domain Reg.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/The Perimeter - A Cat and Mouse Game.md",
-    "Awesome Tools and How to Use Them/To Do - Tool Guides.md",
-    "Awesome Tools and How to Use Them/hcxtools.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Challenge Photos",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section",
-    "TCM Security Course Notes/OSINT Fundamentals/Image OSINT",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
