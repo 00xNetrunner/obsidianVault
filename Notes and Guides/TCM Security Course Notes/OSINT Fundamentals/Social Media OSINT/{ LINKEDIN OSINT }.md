@@ -16,4 +16,4 @@ Linked in can offer us a treasure trove of information, especially if you are co
 
 ![[Pasted image 20240616183449.png]]
 
-As you can see this profile doesnt show the picture or much contact info. althought you can get more information from their websites, we will go over in another note. 
+As you can see this profile doesn't show the picture or much contact info. although you can get more information from their websites, we will go over in another note. 
