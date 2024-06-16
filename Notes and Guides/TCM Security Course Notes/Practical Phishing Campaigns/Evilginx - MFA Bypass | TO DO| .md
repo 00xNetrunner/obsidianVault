@@ -2,6 +2,10 @@
 banner: Hacking Pentesting/assets/DALL·E 2023-11-18 16.51.22.png.png
 sticker: lucide//shield
 color: var(--mk-color-teal)
+tags:
+  - phishing
+  - Ethical_Hacking
+  - TCM
 ---
 ## Evilgnix Setup
 

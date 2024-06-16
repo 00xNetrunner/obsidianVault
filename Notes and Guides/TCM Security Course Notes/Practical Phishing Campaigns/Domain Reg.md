@@ -2,6 +2,10 @@
 color: var(--mk-color-yellow)
 sticker: lucide//server
 banner: https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/vIuC2QSyRNCclJ8oh3aQ
+tags:
+  - Ethical_Hacking
+  - TCM
+  - phishing
 ---
 ## Route 53 Domain Reg
 

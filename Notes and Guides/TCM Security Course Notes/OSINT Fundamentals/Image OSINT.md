@@ -1,3 +1,6 @@
+---
+tags: TCM
+---
 ## Reverse Image Searching `fas:Search`
 
 Reverse image searching involves using an image to find information about it online. In this course, we will use the provided images:
@@ -126,3 +129,5 @@ To use the script:
 > As a Red Teamer, it is good practice to scout the location via Google Maps. Look for back entries, cameras, and anything that can be exploited by the team.
 
 This approach can be very effective in preparing for on-site assessments and operations.
+
+#OSINT #Ethical_Hacking

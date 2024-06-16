@@ -2,6 +2,10 @@
 sticker: lucide//mail-x
 color: var(--mk-color-purple)
 banner: https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/vIuC2QSyRNCclJ8oh3aQ
+tags:
+  - phishing
+  - Ethical_Hacking
+  - TCM
 ---
 **Steps to Create a Campaign:**
 

@@ -1,3 +1,6 @@
+---
+tags: TCM
+---
 ![[Pasted image 20240616004408.png]]
 
 # ToC
@@ -9,7 +12,8 @@ maxLevel: 0 # Include headings up to the specified level
 includeLinks: true # Make headings clickable
 debugInConsole: false # Print debug info in Obsidian console
 ```
-
+# { TWITTER OSINT | PART ONE }
+-----
 ## { SOCK PUPPET ACCOUNT }
 To get started with Twitter OSINT, we should first make a Sock Puppet account use the following website links to create one. 
 
@@ -73,13 +77,42 @@ All of this can sometimes be hard to remember, in this case twitter has us cover
 
 ![[Pasted image 20240616020911.png]]
 
-# { TWITTER OSINT | PART TWO }
 
+
+
+
+
+# { TWITTER OSINT | PART TWO }
+------
 ## { LINK's }
 
 | Website Name         | Website Link                                    |
 | -------------------- | ----------------------------------------------- |
 | OSINT Twitter- Tools | https://github.com/rmdir-rp/OSINT-twitter-tools |
 
-## { TOOLS FOR TWITTER OSINT }
+> [!NOTE]
+> Most of these tools don't work anymore due to Elon Musk's changes to twitter. this repo still have a lot of useful information on it. it provides a list of google dorks to use to search for tweets and users.
+
+## { TWITTER QUERY DORKS }
+| Query for search                            | Description                                                                                   |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| apple grapes site:twitter.com               | Tweets containing the words "apple" and "grapes" on Twitter:                                  |
+| "apple and grapes" site:twitter.com         | Tweets containing the exact phrase "apple and grapes" on Twitter:                             |
+| apple OR grapes site:twitter.com            | Tweets containing either the word "apple" or the word "grapes" on Twitter                     |
+| apple -grapes site:twitter.com              | Tweets containing the word "apple" but not the word "grapes" on Twitter:                      |
+| from:Apple grapes site:twitter.com          | Tweets from the Apple Twitter account mentioning grapes on Twitter:                           |
+| to:Apple grapes site:twitter.com            | Tweets mentioning the Apple Twitter account and grapes on Twitter:                            |
+| lang:en apple grapes site:twitter.com       | Tweets in English containing the words "apple" and "grapes" on Twitter:                       |
+| apple :) grapes :) site:twitter.com         | Tweets with a positive sentiment about apples and grapes on Twitter:                          |
+| apple :( grapes :( site:twitter.com         | Tweets with a negative sentiment about apples and grapes on Twitter:                          |
+| near:New York apple grapes site:twitter.com | Tweets with a location near New York containing the words "apple" and "grapes" on Twitter     |
+| url:apple.com apple grapes site:twitter.com | Tweets with a link to the Apple website containing the words "apple" and "grapes" on Twitter: |
+| filter:images apple grapes site:twitter.com | Tweets with images of apples and grapes on Twitter:                                           |
+
+By using these advanced Twitter dorks in Google with the site:twitter.com operator, you can perform more specific searches and find the information you need about apples and grapes on the platform.
+
+
+
+-----
+#OSINT #Ethical_Hacking #socialMediaOSINT
 

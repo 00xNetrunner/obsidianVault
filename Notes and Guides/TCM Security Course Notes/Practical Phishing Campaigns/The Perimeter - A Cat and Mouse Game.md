@@ -2,6 +2,10 @@
 sticker: lucide//fish
 banner: https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/vIuC2QSyRNCclJ8oh3aQ
 color: var(--mk-color-red)
+tags:
+  - TCM
+  - Ethical_Hacking
+  - "#phishing"
 ---
 ## What the Course Covers
 - Email Phishing + Password Entry

@@ -1,3 +1,6 @@
+---
+tags: TCM
+---
 ![[Pasted image 20240615230548.png]]
 
 ## { FINDING PEOPLE VIA US VOTER RECORDS } 
@@ -20,3 +23,4 @@ You can even get a back ground report, (This will link you to another website) A
 ![[Pasted image 20240615232202.png]]
 
 
+#OSINT #Ethical_Hacking #peopleOsint

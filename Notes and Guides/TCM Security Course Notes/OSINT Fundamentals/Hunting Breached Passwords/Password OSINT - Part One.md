@@ -1,5 +1,6 @@
 ---
 banner: TCM Security Course Notes/OSINT Fundamentals/Attachments/asdasd.webp
+tags: TCM
 ---
 > [!NOTE]
 > What is Password OSINT? It is the process by which we or a hacker looks for breached credentials. The information presented in this guide is subject to change.
@@ -47,3 +48,5 @@ Alternatively, you can enter the hash into the following websites to find the co
 
 By following these steps and utilising the resources provided, you can effectively hunt for breached passwords and strengthen your security measures.
 
+------
+#OSINT #Ethical_Hacking #Hunting_Breached_Passwords

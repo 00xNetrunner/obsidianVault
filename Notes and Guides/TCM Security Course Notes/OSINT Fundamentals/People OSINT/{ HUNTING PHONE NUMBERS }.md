@@ -1,3 +1,6 @@
+---
+tags: TCM
+---
 ![[Pasted image 20240616001716.png]]
 
 # { TABLE OF CONTENTS }
@@ -50,3 +53,4 @@ To search for phone numbers associated with a person or organisation, you can us
    ```
    "123-456-7890" "John Doe"
    ```
+#OSINT #Ethical_Hacking #peopleOsint

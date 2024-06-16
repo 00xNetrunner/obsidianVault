@@ -1,3 +1,6 @@
+---
+tags: TCM
+---
 ![[Pasted image 20240615221940.png]]
 
 # ToC
@@ -176,3 +179,5 @@ To enhance your search, you can combine multiple operators:
    ```
    "John Doe" "Arbroath" "123-456-7890"
    ```
+
+#OSINT #Ethical_Hacking #peopleOsint

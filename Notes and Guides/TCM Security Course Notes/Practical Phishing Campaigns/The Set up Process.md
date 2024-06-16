@@ -1,6 +1,10 @@
 ---
 sticker: emoji//2709-fe0f
 banner: https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://cdn.filestackcontent.com/vIuC2QSyRNCclJ8oh3aQ
+tags:
+  - Ethical_Hacking
+  - TCM
+  - phishing
 ---
 # Table Of Contents
 ```table-of-contents

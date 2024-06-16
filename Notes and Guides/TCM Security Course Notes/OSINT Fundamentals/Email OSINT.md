@@ -1,3 +1,6 @@
+---
+tags: TCM
+---
 ## Finding Email Addresses `fas:Envelope`
 
 Finding email addresses is a crucial step in various investigative and research activities, especially for Red Teams aiming to identify IT Support or SOC email addresses. The following tools and websites are highly effective for this purpose:
@@ -63,3 +66,5 @@ Clearbit Connect is a Chrome extension that helps find email addresses directly 
 > When using these tools, it's a good practice to cross-verify the information obtained from multiple sources to ensure accuracy. Additionally, respect privacy and legal guidelines when conducting such searches.
 
 By leveraging these tools, you can efficiently find and verify email addresses, aiding in your investigative and outreach efforts.
+
+#OSINT #Ethical_Hacking

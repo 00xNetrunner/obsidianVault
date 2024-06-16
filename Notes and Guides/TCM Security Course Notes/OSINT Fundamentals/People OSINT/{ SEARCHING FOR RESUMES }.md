@@ -1,3 +1,6 @@
+---
+tags: TCM
+---
 ![[Pasted image 20240616003144.png]]
 
 ## { GOOGLE DORKS }
@@ -136,3 +139,4 @@ Here are a few example dorks for specific scenarios:
 
 
 
+#OSINT #Ethical_Hacking #peopleOsint

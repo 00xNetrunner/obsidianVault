@@ -1,3 +1,6 @@
+---
+tags: TCM, OSINT, Ethical_Hacking
+---
 # Sock Puppet Account Overview `fas:UserSecret`
 
 **Sock Puppet Accounts** are fake accounts that hackers set up on social media websites to gather information. Some sites, like Instagram and Facebook, only allow you to view profile information if you have an account, follow them, or have them as a friend. These accounts are also used to communicate with the person to collect more information.
@@ -66,3 +69,4 @@
 
 > [!important] 
 > Always ensure that your sock puppet accounts are meticulously set up and maintained to avoid detection and ensure the effectiveness of your OSINT activities. Use all tools and methods responsibly and within the bounds of the law.
+

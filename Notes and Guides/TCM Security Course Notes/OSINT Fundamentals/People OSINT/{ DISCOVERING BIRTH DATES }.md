@@ -1,3 +1,6 @@
+---
+tags: TCM
+---
 ![[Pasted image 20240616001409.png]]
 
 ## { UTILISING GOOGLE DORKS }
@@ -159,3 +162,4 @@
 
 
 
+#OSINT #Ethical_Hacking #peopleOsint
