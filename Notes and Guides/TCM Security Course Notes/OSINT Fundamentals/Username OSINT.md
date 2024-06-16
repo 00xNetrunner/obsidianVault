@@ -57,3 +57,4 @@ As we can see when i put this random username in it says we cannot find the user
 > sometimes people will have similar but different usernames so if we have a username we can login to our own snapchat account and slowly type in the username and it will show us accounts with similar usernames that could be our target. 
 
 ![[Pasted image 20240615181256.png|Source ~ TCM-Security]]
+

@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6e94e522fbb95030",
+        "id": "dea361f1088737ea",
         "type": "tabs",
         "children": [
           {
-            "id": "9b358f078d3f6510",
+            "id": "8eb30630d8ec03fe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615180156.png"
+                "file": "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT | PART ONE }.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -76,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "644a38b12075da92",
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615180156.png",
+                "file": "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT | PART ONE }.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615180156.png",
+                "file": "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT | PART ONE }.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615180156.png"
+                "file": "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT | PART ONE }.md"
               }
             }
           },
@@ -187,21 +191,40 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9b358f078d3f6510",
+  "active": "8eb30630d8ec03fe",
   "lastOpenFiles": [
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Pasted image 20240616020911.png",
+    "TCM Security Course Notes/Practical Phishing Campaigns/The Set up Process.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT | PART ONE }.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Images/Images.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Images",
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Untitled 1/Untitled 1.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Untitled 1",
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Images/Pasted image 20240616004408.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ SOCIAL MEDIA OSINT }.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Social Media OSINT.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT",
+    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ SEARCHING FOR RESUMES }.md",
+    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ DISCOVERING BIRTH DATES }.md",
+    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ HUNTING PHONE NUMBERS }.md",
+    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ VOTER RECORDS }.md",
+    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ SEARCHING FOR PEOPLE }.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240616003144.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240616003917.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240616003428.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240616002126.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Hunting Breached Passwords/Password OSINT - Part One.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240616002609.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240616001716.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240616001409.png",
     "TCM Security Course Notes/OSINT Fundamentals/Username OSINT.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615181256.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615180946.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615180808.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615180207.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615180156.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615175559.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615175532.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615175200.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615172740.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Password OSINT  - Part Two.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615165151.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Password OSINT - Part One.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615232922.png",
+    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Pasted image 20240615232202.png",
+    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/People OSINT.md",
+    "TCM Security Course Notes/OSINT Fundamentals/People OSINT",
+    "TCM Security Course Notes/OSINT Fundamentals/Hunting Breached Passwords/Password OSINT  - Part Two.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Hunting Breached Passwords/Hunting Breached Passwords.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Hunting Breached Passwords",
     "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Attachments.md",
@@ -214,27 +237,9 @@
     "HackTheBox Pentesting Pathway/Shells And Payloads",
     "HackTheBox Pentesting Pathway/Shells And Payloads/Attachments - Images/Shells_Payloads_Module_Cheat_Sheet.pdf",
     "HackTheBox Pentesting Pathway/Information Gathering Web Edition.md",
-    "Linux System Guides/NixOS - Getting Started.md",
-    "Linux System Guides/NixOS - Hyprland .md",
-    "Linux System Guides/NixOS - Nixvim.md",
     "Spaces",
-    "Linx Commands/GPG and Tarball&nbsp;.md",
-    "conflict-files-obsidian-git.md",
-    "Linux System Guides/NixOS.md",
-    "Awesome Tools and How to Use Them/Shodan Cheat Sheet.md",
-    "Awesome Tools and How to Use Them/Awesome Tools and How to Use Them.md",
-    "Linx Commands/Linx Commands.md",
-    "Linux System Guides/Linux System Guides.md",
-    "output/NixOS.md",
     "output/attachment",
-    "output",
-    "Linux System Guides/NixOS_Images/NixOS_Images.md",
-    "Linux System Guides/NixOS_Images",
-    "Linux System Guides",
-    "20240526123852.png.md",
     "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Password OSINT Section",
-    "TCM Security Course Notes/OSINT Fundamentals/Attachments ~ Images/Images - Image OSINT - Section/Screenshots",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
