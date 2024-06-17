@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/{ EXIF TOOL }.md",
+                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "644a38b12075da92",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/{ EXIF TOOL }.md",
+                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/{ EXIF TOOL }.md",
+                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/{ EXIF TOOL }.md"
+                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md"
               }
             }
           },
@@ -193,9 +192,27 @@
   },
   "active": "7525b962d346afd9",
   "lastOpenFiles": [
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }/{ INTRODUCTION }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/Images_Attachments/Images_Attachments.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/Images_Attachments",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester",
+    "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ INSTALLING KIOPTRIX }.md",
+    "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/Scanning-&-Enumeration.md",
+    "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration",
+    "TCM Security Course Notes/{ Practical Ethical Hacking }/Image ~ Attachments/Untitled.md",
+    "Scanning_&_Enumeration/Scanning_&_Enumeration.md",
+    "Scanning_&_Enumeration",
+    "TCM Security Course Notes/{ Practical Ethical Hacking }/Imag/Images ~ Attachments.md",
+    "TCM Security Course Notes/{ Practical Ethical Hacking }/Image ~ Attachments",
+    "TCM Security Course Notes/{ Practical Ethical Hacking }",
+    "TCM Security Course Notes/{ Practical Ethical Hacking }/{ Practical Ethical Hacking }.md",
+    "TCM Security Course Notes/Practical Phishing Campaigns/\n.md",
+    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/{ EXIF TOOL }.md",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616214156.png",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616213012.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/{ EXIF TOOL }.md",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616214102.png",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/dog.txt",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616213715.png",
@@ -215,30 +232,13 @@
     "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Username OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Hunting Breached Passwords/Password OSINT - Part One.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Hunting Breached Passwords/Password OSINT  - Part Two.md",
-    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ HUNTING PHONE NUMBERS }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ VOTER RECORDS }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ SEARCHING FOR PEOPLE }.md",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/dog.JPG",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Working with OSINT Tools.md",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616195512.png",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616204630.png",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616203942.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/.md",
     "Digital Forensics/Images and Files/Lab_10_Instructions3.pdf",
-    "Digital Forensics/Images and Files/Lab_4_Instructions4.pdf",
-    "Digital Forensics/Physical Searching.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass | TO DO| .md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Sending Our First Campaign.md",
-    "PDFs/Cybersecurity/blackHat_Python.pdf",
-    "PDFs/Cybersecurity/blackHat_Rust.pdf",
-    "output/attachment",
-    "output",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Images",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Untitled 1",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
