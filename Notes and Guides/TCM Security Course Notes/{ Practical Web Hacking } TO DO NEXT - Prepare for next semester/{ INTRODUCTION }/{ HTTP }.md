@@ -1,0 +1,1 @@
+- [ ] 📅 2024-06-18 🛫 2024-06-18 🔼  --  Explain HTTP, and demonstrae curl with HTTP

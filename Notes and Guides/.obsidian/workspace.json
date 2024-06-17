@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md",
+                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bf2521317dc5a7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "644a38b12075da92",
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md",
+                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md",
+                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md"
+                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md"
               }
             }
           },
@@ -190,8 +205,27 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "7525b962d346afd9",
+  "active": "6bf2521317dc5a7d",
   "lastOpenFiles": [
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618005016.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618002928.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618001825.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618000944.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618000854.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617235753.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617235530.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617235316.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617234212.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617233935.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617233921.png",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ AUTHENTICATION }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }/{ HTTP }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }/{ LAB SETUP }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/Images_Attachments/Untitled.md",
     "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md",
     "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }/{ INTRODUCTION }.md",
     "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }",
@@ -211,34 +245,15 @@
     "TCM Security Course Notes/{ Practical Ethical Hacking }/{ Practical Ethical Hacking }.md",
     "TCM Security Course Notes/Practical Phishing Campaigns/\n.md",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/{ EXIF TOOL }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616214156.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616213012.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616214102.png",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/dog.txt",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616213715.png",
     "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ REDDIT OSINT }.md",
     "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ SNAPCHAT OSINT }.md",
     "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ INSTAGRAM OSINT }.md",
     "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{  FACEBOOK OSINT}.md",
     "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT }.md",
     "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ SEARCHING FOR RESUMES }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ DISCOVERING BIRTH DATES }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ LINKEDIN OSINT }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Pasted image 20240616183242.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/Pasted image 20240616183449.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Business OSINT.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Creating Sock Puppet Accounts.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Username OSINT.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Hunting Breached Passwords/Password OSINT - Part One.md",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/dog.JPG",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616195512.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616204630.png",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Pasted image 20240616203942.png",
-    "Digital Forensics/Images and Files/Lab_10_Instructions3.pdf",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
