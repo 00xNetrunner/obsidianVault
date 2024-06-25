@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b911dfc014d112c0",
+        "id": "bf37434bb8e439c0",
         "type": "tabs",
         "children": [
           {
-            "id": "7525b962d346afd9",
+            "id": "8d9bfc50997b598c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "6bf2521317dc5a7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "644a38b12075da92",
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+                "file": "Linux System Guides/NixOS - Gaming on NixOS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md"
+                "file": "Linux System Guides/NixOS - Gaming on NixOS.md"
               }
             }
           },
@@ -205,55 +190,55 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "6bf2521317dc5a7d",
+  "active": "8d9bfc50997b598c",
   "lastOpenFiles": [
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618005016.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618002928.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618001825.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618000944.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240618000854.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617235753.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617235530.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617235316.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617234212.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617233935.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/Pasted image 20240617233921.png",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+    "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "Linux System Guides/NixOS - Getting Started.md",
+    "Linux System Guides/NixOS - Nixvim.md",
+    "Linux System Guides/NixOS - Hyprland .md",
+    "Awesome Tools and How to Use Them/hcxtools.md",
+    "Linx Commands/grep, cat and uniq.md",
+    "Linx Commands/WiFi - Adaptor Settings.md",
+    "Linx Commands/Ultralist Cheatsheet.md",
+    "Linx Commands/USB.md",
+    "Linx Commands/GPG and Tarball&nbsp;.md",
+    "Linx Commands/Find command.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+    "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ INSTALLING KIOPTRIX }.md",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Shells and Payloads Write Up.md",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Pasted image 20240620212016.png",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Pasted image 20240620211731.png",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Pasted image 20240620211606.png",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Pasted image 20240620202901.png",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Pasted image 20240620194728.png",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Pasted image 20240620194703.png",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Pasted image 20240620193445.png",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Pasted image 20240620193413.png",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Pasted image 20240620193407.png",
+    "HackTheBox Pentesting Pathway/Shells And Payloads/Attachments - Images/Pasted image 20240614211008.png",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ LAB SETUP }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ HTTP }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/Images - Authentication/Images - Authentication.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/Images - Authentication",
     "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/.md",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }/{ AUTHENTICATION }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ AUTHENTICATION }",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }/{ HTTP }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }/{ LAB SETUP }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ AUTHENTICATION }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }",
     "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/Images_Attachments/Untitled.md",
     "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ LAB SETUP }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }/{ INTRODUCTION }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ INTRODUCTION }",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/Images_Attachments/Images_Attachments.md",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/Images_Attachments",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester.md",
-    "TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester",
-    "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ INSTALLING KIOPTRIX }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ INTRODUCTION }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }",
+    "TCM Security Course Notes/{ Practical Web Hacking }/Images_Attachments/Images_Attachments.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/Images_Attachments",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ Practical Web Hacking }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }",
     "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/Scanning-&-Enumeration.md",
     "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration",
-    "TCM Security Course Notes/{ Practical Ethical Hacking }/Image ~ Attachments/Untitled.md",
-    "Scanning_&_Enumeration/Scanning_&_Enumeration.md",
     "Scanning_&_Enumeration",
-    "TCM Security Course Notes/{ Practical Ethical Hacking }/Imag/Images ~ Attachments.md",
     "TCM Security Course Notes/{ Practical Ethical Hacking }/Image ~ Attachments",
     "TCM Security Course Notes/{ Practical Ethical Hacking }",
-    "TCM Security Course Notes/{ Practical Ethical Hacking }/{ Practical Ethical Hacking }.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/\n.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/{ EXIF TOOL }.md",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/dog.txt",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ REDDIT OSINT }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ SNAPCHAT OSINT }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ INSTAGRAM OSINT }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{  FACEBOOK OSINT}.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT }.md",
-    "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ SEARCHING FOR RESUMES }.md",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
-    "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Untitled.canvas",
