@@ -71,7 +71,6 @@
     "HackTheBox Pentesting Pathway",
     "Linux System Guides",
     "Linx Commands",
-    "HackTheBox Pentesting Pathway/HackTheBox Pentesting Pathway/Shells And Payloads",
     "TCM Security Course Notes/TCM Security Course Notes/OSINT Fundamentals/TCM Security Course Notes/OSINT Fundamentals/Untitled",
     "TCM Security Course Notes/TCM Security Course Notes/OSINT Fundamentals/TCM Security Course Notes/OSINT Fundamentals/{ SOCIAL MEDIA OSINT }",
     "TCM Security Course Notes",
@@ -84,7 +83,9 @@
     "TCM Security Course Notes/TCM Security Course Notes/{ Practical Ethical Hacking }/TCM Security Course Notes/{ Practical Ethical Hacking }/Image ~ Attachments",
     "TCM Security Course Notes/TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester",
     "//Scanning_&_Enumeration",
-    "//TCM Security Course Notes/TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester"
+    "//TCM Security Course Notes/TCM Security Course Notes/{ Practical Web Hacking } TO DO NEXT - Prepare for next semester",
+    "HackTheBox Pentesting Pathway/HackTheBox Pentesting Pathway/Using the Metasploit Framework",
+    "HackTheBox Pentesting Pathway/HackTheBox Pentesting Pathway/Using the Metasploit Framework/HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
