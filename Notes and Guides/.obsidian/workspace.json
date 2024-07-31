@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ SCANNING WITH NMAP } .md",
+                "file": "TCM Security Course Notes/Practical Phishing Campaigns/The Set up Process.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "644a38b12075da92",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ SCANNING WITH NMAP } .md",
+                "file": "TCM Security Course Notes/Practical Phishing Campaigns/The Set up Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ SCANNING WITH NMAP } .md",
+                "file": "TCM Security Course Notes/Practical Phishing Campaigns/The Set up Process.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ SCANNING WITH NMAP } .md"
+                "file": "TCM Security Course Notes/Practical Phishing Campaigns/The Set up Process.md"
               }
             }
           },
@@ -184,16 +183,20 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "zk-prefixer:Create new unique note": false,
+      "daily-notes:Open today's daily note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "daily-notes:Open today's daily note": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "09d8253acf423914",
   "lastOpenFiles": [
+    "TCM Security Course Notes/Practical Phishing Campaigns/Domain Reg.md",
+    "TCM Security Course Notes/Practical Phishing Campaigns/The Perimeter - A Cat and Mouse Game.md",
+    "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass.md",
     "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ SCANNING WITH NMAP } .md",
+    "Spaces",
     "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass | TO DO| .md",
     "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ VOTER RECORDS }.md",
     "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ SEARCHING FOR PEOPLE }.md",
@@ -230,15 +233,11 @@
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments.md",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Using the Metasploit Framework.md",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework",
-    "HackTheBox Pentesting Pathway/WordPress Hacking/Hacking WordPress ~ HTB ~ Practical.md",
-    "HackTheBox Pentesting Pathway/WordPress Hacking/Hacking WordPress Notes ~~ {HTB Academy}.md",
-    "HackTheBox Pentesting Pathway/.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/Images - Authentication",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }",
     "TCM Security Course Notes/{ Practical Web Hacking }/Images_Attachments",
     "TCM Security Course Notes/{ Practical Web Hacking }",
-    "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
