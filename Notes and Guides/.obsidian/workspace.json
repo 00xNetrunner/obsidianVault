@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "TCM Security Course Notes/OSINT Fundamentals"
+                "path": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/Images - Authentication"
               }
             }
           }
@@ -185,13 +185,18 @@
   },
   "active": "09d8253acf423914",
   "lastOpenFiles": [
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ HTTP }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ LAB SETUP }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+    "{ WEB SECURITY ACADEMY }/Server-side vulnerabilities.md",
+    "Spaces",
     "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass.md",
     "TCM Security Course Notes/Practical Phishing Campaigns/Sending Our First Campaign.md",
     "TCM Security Course Notes/Practical Phishing Campaigns/The Set up Process.md",
     "TCM Security Course Notes/Practical Phishing Campaigns/Domain Reg.md",
     "TCM Security Course Notes/Practical Phishing Campaigns/The Perimeter - A Cat and Mouse Game.md",
     "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ SCANNING WITH NMAP } .md",
-    "Spaces",
     "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass | TO DO| .md",
     "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ VOTER RECORDS }.md",
     "TCM Security Course Notes/OSINT Fundamentals/People OSINT/{ SEARCHING FOR PEOPLE }.md",
@@ -201,15 +206,10 @@
     "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT }.md",
-    "{ WEB SECURITY ACADEMY }/Server-side vulnerabilities.md",
     "{ WEB SECURITY ACADEMY }/.md",
     "{ WEB SECURITY ACADEMY }.md",
     "{ WEB SECURITY ACADEMY }/{ WEB SECURITY ACADEMY }.md",
     "{ WEB SECURITY ACADEMY }",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ LAB SETUP }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ HTTP }.md",
     "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ INSTALLING KIOPTRIX }.md",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240626185303.png",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Write_up.md",
@@ -223,7 +223,6 @@
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627013718.png",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627013417.png",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627012850.png",
-    "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Attachments.md",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/Images - Authentication",
