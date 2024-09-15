@@ -17,3 +17,4 @@ OR
 find /usr/share/seclists -iname "*username*"
 ```
 
+To bruteforce a login page with burp suite we first need to find a website, and head to the login form.   
