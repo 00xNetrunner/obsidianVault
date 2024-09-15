@@ -11,9 +11,12 @@
             "id": "09d8253acf423914",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/Images - Authentication"
+                "file": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md"
+              }
             }
           },
           {
@@ -183,12 +190,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "09d8253acf423914",
+  "active": "3c97fa7beb65ab4e",
   "lastOpenFiles": [
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ HTTP }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ LAB SETUP }.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ HTTP }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ LAB SETUP }.md",
     "{ WEB SECURITY ACADEMY }/Server-side vulnerabilities.md",
     "Spaces",
     "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass.md",
