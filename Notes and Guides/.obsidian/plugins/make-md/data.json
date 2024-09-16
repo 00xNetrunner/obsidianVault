@@ -27,7 +27,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 1,
+  "currentWaypoint": 2,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -90,7 +90,6 @@
     "//{ WEB SECURITY ACADEMY }",
     "//Linux System Guides",
     "//Digital Forensics/Digital Forensics/Directed Searching - Week 7",
-    "TCM Security Course Notes/TCM Security Course Notes/{ Practical Web Hacking }",
     "TCM Security Course Notes/TCM Security Course Notes/{ Practical Web Hacking }/TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }",
     "TCM Security Course Notes/TCM Security Course Notes/{ Practical Web Hacking }/TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }"
   ],
