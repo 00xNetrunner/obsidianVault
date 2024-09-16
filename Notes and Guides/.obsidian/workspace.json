@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md",
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Installing The VMs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md",
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Installing The VMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md",
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Installing The VMs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md"
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Installing The VMs.md"
               }
             }
           },
@@ -190,10 +190,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3c97fa7beb65ab4e",
+  "active": "09d8253acf423914",
   "lastOpenFiles": [
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/A QUICK GUIDE TO INSTALLING VMWARE AND THE VIRTUAL MACHINES.docx",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Installing The VMs.md",
+    "BSc (Hons) Ethical Hacking/Untitled.md",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Web App Pentesting.md",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md",
+    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ HTTP }.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ LAB SETUP }.md",
@@ -215,12 +220,8 @@
     "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT }.md",
     "{ WEB SECURITY ACADEMY }/.md",
-    "{ WEB SECURITY ACADEMY }.md",
-    "{ WEB SECURITY ACADEMY }/{ WEB SECURITY ACADEMY }.md",
     "{ WEB SECURITY ACADEMY }",
-    "TCM Security Course Notes/{ Practical Ethical Hacking }/Scanning-&-Enumeration/{ INSTALLING KIOPTRIX }.md",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240626185303.png",
-    "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Write_up.md",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627024020.png",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Using_The_Metasploit_Framework_Module_Cheat_Sheet.pdf",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627023603.png",
@@ -237,7 +238,6 @@
     "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }",
     "TCM Security Course Notes/{ Practical Web Hacking }/Images_Attachments",
-    "TCM Security Course Notes/{ Practical Web Hacking }",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
