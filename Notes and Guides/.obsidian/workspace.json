@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a1c984d9deb9fd",
+        "id": "8aa3936b1afddd6b",
         "type": "tabs",
         "children": [
           {
-            "id": "00d240fe1398e843",
+            "id": "d5c000cbe96ef3bb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "mk-space",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf"
+                "path": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration"
               }
             }
           }
@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -187,11 +183,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "00d240fe1398e843",
+  "active": "d5c000cbe96ef3bb",
   "lastOpenFiles": [
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Enumeration.md",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/~$QUICK GUIDE TO INSTALLING VMWARE AND THE VIRTUAL MACHINES.docx",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Installing The VMs.md",
-    "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf",
     "conflict-files-obsidian-git.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/A QUICK GUIDE TO INSTALLING VMWARE AND THE VIRTUAL MACHINES.docx",
     "BSc (Hons) Ethical Hacking/Untitled.md",
@@ -218,7 +216,6 @@
     "TCM Security Course Notes/OSINT Fundamentals/Hunting Breached Passwords/Password OSINT  - Part Two.md",
     "TCM Security Course Notes/OSINT Fundamentals/Email OSINT.md",
     "TCM Security Course Notes/OSINT Fundamentals/Image OSINT.md",
-    "TCM Security Course Notes/OSINT Fundamentals/Social Media OSINT/{ TWITTER OSINT }.md",
     "{ WEB SECURITY ACADEMY }",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240626185303.png",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627024020.png",
@@ -233,8 +230,6 @@
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627012850.png",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/Images - Authentication",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
