@@ -11,9 +11,9 @@
             "id": "d5c000cbe96ef3bb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "pdf",
               "state": {
-                "path": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration"
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf"
               }
             }
           }
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/2️⃣ - Guide to Installing CMP319 VMs - Tagged.pdf"
+              }
             }
           },
           {
