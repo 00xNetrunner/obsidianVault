@@ -11,9 +11,12 @@
             "id": "2920aa661c3ce234",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/Enumeration Practical Exercises"
+                "file": "Pros and Cons for github.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pros and Cons for github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pros and Cons for github.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pros and Cons for github.md"
+              }
             }
           },
           {
@@ -185,6 +192,9 @@
   },
   "active": "2920aa661c3ce234",
   "lastOpenFiles": [
+    "Linux System Guides/NixOS - Gaming on NixOS.md",
+    "Pros and Cons for github.md",
+    "Linux System Guides/NixOS - Getting Started.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Web App Penetration Testing Basics.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Enumerating a Web Application.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Lecture Notes.md",
@@ -225,8 +235,6 @@
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ HTTP }.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ LAB SETUP }.md",
-    "{ WEB SECURITY ACADEMY }/Server-side vulnerabilities.md",
-    "TCM Security Course Notes/Practical Phishing Campaigns/Evilginx - MFA Bypass.md",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240626185303.png",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627024020.png",
     "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627023603.png",
