@@ -27,7 +27,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 2,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -96,7 +96,11 @@
     "BSc (Hons) Ethical Hacking/BSc (Hons) Ethical Hacking/Web App Pentesting/BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/Untitled",
     "BSc (Hons) Ethical Hacking/BSc (Hons) Ethical Hacking/Web App Pentesting/BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/Enumeration",
     "BSc (Hons) Ethical Hacking/BSc (Hons) Ethical Hacking/Web App Pentesting/BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Untitled",
-    "BSc (Hons) Ethical Hacking/BSc (Hons) Ethical Hacking/Web App Pentesting/BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/Enumeration Practical Exercises"
+    "BSc (Hons) Ethical Hacking/BSc (Hons) Ethical Hacking/Web App Pentesting/BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/Enumeration Practical Exercises",
+    "BSc (Hons) Ethical Hacking/BSc (Hons) Ethical Hacking/Web App Pentesting",
+    "BSc (Hons) Ethical Hacking/BSc (Hons) Ethical Hacking/Web App Pentesting/BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management",
+    "BSc (Hons) Ethical Hacking/BSc (Hons) Ethical Hacking/Web App Pentesting/BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration",
+    "BSc (Hons) Ethical Hacking/BSc (Hons) Ethical Hacking/Web App Pentesting/BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
