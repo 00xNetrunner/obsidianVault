@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/Enumeration Demo.md",
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Enumerating a Web Application.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "644a38b12075da92",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/Enumeration Demo.md",
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Enumerating a Web Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/Enumeration Demo.md",
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Enumerating a Web Application.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/Enumeration Demo.md"
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Enumerating a Web Application.md"
               }
             }
           },
@@ -192,14 +193,20 @@
   },
   "active": "303d5863eaa1dee2",
   "lastOpenFiles": [
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Pasted image 20240930194132.png",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Web App Penetration Testing Basics.md",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20240930192035.png",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Enumerating a Web Application.md",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20240930193133.png",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20240930193002.png",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20240930192250.png",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20240930192141.png",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/OWASP ZAP Demo.md",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/Enumeration Demo.md",
     "Pros and Cons for github.md",
     "Linux System Guides/NixOS - Gaming on NixOS.md",
     "Linux System Guides/NixOS - Getting Started.md",
-    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Web App Penetration Testing Basics.md",
-    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Enumerating a Web Application.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Lecture Notes.md",
-    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/Enumeration Demo.md",
-    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/OWASP ZAP Demo.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/Jamies Video Demonstrations.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20240924003033.png",
@@ -207,8 +214,6 @@
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20240924010027.png",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/diagram_0c94a5218b3943d686adb6bd52968374.png",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/diagram_0c94a5218b3943d686adb6bd52968374.png",
-    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/diagram_b27347818a4d4782967809fe9d5e6d5a.png",
-    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/diagram_b27347818a4d4782967809fe9d5e6d5a 1.png",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Screenshots and Attachments.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Attacking Session Management & Authentication.md",
@@ -234,10 +239,6 @@
     "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ HTTP }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ LAB SETUP }.md",
-    "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240626185303.png",
-    "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627024020.png",
-    "HackTheBox Pentesting Pathway/Using the Metasploit Framework/Attachments/Pasted image 20240627023603.png",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
