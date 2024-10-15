@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Attacking Session Management & Authentication.md",
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Lecture Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5,
-    "collapsed": true
+    "width": 384.5
   },
   "right": {
     "id": "644a38b12075da92",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Attacking Session Management & Authentication.md",
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Lecture Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Attacking Session Management & Authentication.md",
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Lecture Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Attacking Session Management & Authentication.md"
+                "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Lecture Notes.md"
               }
             }
           },
@@ -203,8 +202,8 @@
   },
   "active": "5fd08dee6b3b96b5",
   "lastOpenFiles": [
-    "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Lecture Notes.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Attacking Session Management & Authentication.md",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Lecture Notes.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/Session Management and Authentication Practical Exercises/3-Attacking Session Management & Authentication.pdf",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/Enumeration Practical Exercises/2️⃣ - Web App Penetration Testing Basics.pdf",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20241007124348.png",
