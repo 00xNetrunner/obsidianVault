@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "f2b3b085b8c4fe28",
+            "id": "efa56f6cd06bdd66",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -244,15 +244,15 @@
         ],
         "direction": "vertical",
         "x": 1404,
-        "y": 59,
-        "width": 604,
-        "height": 875,
+        "y": 58,
+        "width": 607,
+        "height": 880,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "66940efd1c882545",
+  "active": "558cd8fb6dfa614c",
   "lastOpenFiles": [
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Lecture Notes.md",
     "Linx Commands/Find command.md",
