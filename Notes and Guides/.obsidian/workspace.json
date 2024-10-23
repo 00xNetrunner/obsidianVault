@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "7d7799eaa15ce1fc",
+            "id": "e5ca8eb173749d85",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -244,9 +244,9 @@
         ],
         "direction": "vertical",
         "x": 1208,
-        "y": 46,
+        "y": 45,
         "width": 608,
-        "height": 880,
+        "height": 883,
         "maximize": false,
         "zoom": 0
       }
