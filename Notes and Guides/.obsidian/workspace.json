@@ -72,7 +72,7 @@
             }
           },
           {
-            "id": "570ad4679505f549",
+            "id": "7d7799eaa15ce1fc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -243,10 +243,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1370,
-        "y": 28,
-        "width": 605,
-        "height": 876,
+        "x": 1208,
+        "y": 46,
+        "width": 608,
+        "height": 880,
         "maximize": false,
         "zoom": 0
       }
