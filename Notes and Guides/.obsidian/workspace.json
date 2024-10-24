@@ -231,7 +231,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Attacking Session Management & Authentication.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": true,
                     "source": false
                   },
@@ -247,13 +247,15 @@
         "y": 44,
         "width": 608,
         "height": 888,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "49b13e3717b1ad9d",
   "lastOpenFiles": [
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Pasted image 20241024135219.png",
+    "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Pasted image 20241024135043.png",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Authentication & Session Management/Lecture Notes.md",
     "Linx Commands/Find command.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/PDFs/Session Management and Authentication Practical Exercises/3-Attacking Session Management & Authentication.pdf",
@@ -273,7 +275,6 @@
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20241007143347.png",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20241007142925.png",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20241007142842.png",
-    "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Screenshots and Attachments/Pasted image 20241007131001.png",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Lecture Notes.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Web App Penetration Testing Basics.md",
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Enumeration/Jamies Video Demonstrations/OWASP ZAP Demo.md",
@@ -299,7 +300,6 @@
     "BSc (Hons) Ethical Hacking/Web App Pentesting/Web App Pentesting.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ BRUTE-FORCE ATTACKS }.md",
     "TCM Security Course Notes/{ Practical Web Hacking }/{ AUTHENTICATION }/{ INTRO TO AUTHENTICATION }.md",
-    "TCM Security Course Notes/{ Practical Web Hacking }/{ INTRODUCTION }/{ WEB-APPLICATION-COMPONENTS }.md",
     "TCM Security Course Notes/OSINT Fundamentals/Working with OSINT Tools/Attachments ~ Images/Images - Image OSINT - Section/Course Photos.canvas",
     "Untitled.canvas",
     "TCM Security Course Notes/Practical Phishing Campaigns/Course Attachments/Untitled.canvas",
